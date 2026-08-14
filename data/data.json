@@ -1,16 +1,35 @@
 {
-  "generatedAt": "2026-08-14T01:56:43.445Z",
+  "generatedAt": "2026-08-14T02:38:25.478Z",
   "source": "Crossref + bioRxiv public APIs",
   "verified": true,
-  "rejectedSources": [
-    "Nature Chemical Biology",
-    "Science Advances",
-    "Cell",
-    "Angewandte Chemie",
-    "Journal of Biological Chemistry",
-    "Nucleic Acids Research"
-  ],
+  "rejectedSources": [],
   "articles": [
+    {
+      "id": "crossref-0002-7863-87",
+      "journal": "JACS",
+      "title": "Unconventional Biocatalytic Strategies Orchestrate the Synthesis of the Nucleoside Analog Sinefungin",
+      "abstract": "Abstract Sinefungin is a potent nucleoside antimetabolite of S-adenosylmethionine (SAM). Since its discovery in the 1970s, sinefungin has generated significant scientific interest owing to its role as a bioisostere of SAM and its broad range of biological activities. Despite considerable efforts to uncover the enzymes responsible for sinefungin production in the following years, its biosynthesis remained unclear for decades. Here, we characterize the complete sinefungin biosynthetic gene cluster (sin BGC) from Streptomyces incarnatus NRRL 8089. In vitro and in vivo analyses support a recent finding that the defining carbon–carbon (C–C) bond is formed not by a long-hypothesized PLP-dependent process, but by a vitamin B12-dependent radical SAM enzyme. We provide direct mechanistic evidence, via isotope-labeled products, that the adenosyl group of sinefungin originates from adenosylcobalamin and is atypically consumed via a homolytic SH2 substitution reaction. We also characterize two peptide aminoacyl-tRNA ligases (PEARLs) that append alanines onto the nucleoside scaffold using tRNA-activated amino acids. The PEARLs act directly on small molecules rather than macromolecular substrates, with one PEARL capable of iterative elongation. In addition, we perform in-vitro substrate profiling of several sin BGC-encoded enzymes. We reveal that multiple enzymes show specificity toward phosphorylated intermediates, including the earliest-acting PEARL enzyme. These observations provide an explanation for a cryptic phosphorylation-dephosphorylation strategy observed in the pathway, as they prevent the formation of the highly toxic sinefungin inside the cell. Finally, we leverage these enzymes in a reduced multi-enzyme cascade to biosynthesize sinefungin. Together, these findings expand upon our current knowledge of radical-mediated C–C bond formation and PEARL enzyme catalysis, unlocking biocatalytic possibilities to produce amino acid-nucleoside conjugates.",
+      "topic": "molecule",
+      "topicLabel": "Molecular synthesis",
+      "score": 87,
+      "date": "2026-8-10",
+      "authors": "Chi-Fang Lee · Tianhui H. Zhou · Songyi Xue",
+      "url": "https://doi.org/10.1021/jacs.6c10565",
+      "doi": "10.1021/jacs.6c10565"
+    },
+    {
+      "id": "crossref-0305-1048-10",
+      "journal": "Nucleic Acids Research",
+      "title": "Discovery and biosynthesis of a novel diaminopropane-modified thymine in phage DNA",
+      "abstract": "Abstract Bacteriophage genomes exhibit exceptional diversity in nucleotide modifications, which primarily function to counteract host defense systems. However, the diversity of phage DNA hypermodifications remains largely unexplored in post genome era. Here, we discovered a novel thymine hypermodification, α-1,3-diaminopropanylthymine (α-dapT), in the Acinetobacter baumannii phage SH-Ab 15599, and elucidated its biosynthetic pathway, featuring the phage-encoded key diamine DNA transferase (DADT, formerly αGPT-Pplase2). DADT utilizes the metabolite 1,3-diaminopropane, which is the major polyamine in the host to modify phage DNA. DADT exhibits broad in vitro substrate specificity but a strong in vivo preference for 1,3-diaminopropane. Structural and mutagenesis analyses revealed the molecular basis for substrate recognition and catalysis. The α-dapT modification occurs preferentially at TG dinucleotides and confers resistance to multiple host restriction enzymes. Furthermore, RNA-seq analysis showed that phage infection upregulates genes for 1,3-diaminopropane synthesis, and downregulates genes for 1,3-diaminoproprane consumption to supply the modification precursor. Given that 1,3-diaminopropane functions as a key regulator in mobility of A. baumannii, its metabolic reprograming may impair host biofilm formation.",
+      "topic": "molecule",
+      "topicLabel": "Molecular synthesis",
+      "score": 84,
+      "date": "2026-8-10",
+      "authors": "Wenjing Li · Huiyu Chen · Haoyu Ma",
+      "url": "https://doi.org/10.1093/nar/gkag763",
+      "doi": "10.1093/nar/gkag763"
+    },
     {
       "id": "crossref-0002-7863-14",
       "journal": "JACS",
@@ -23,6 +42,71 @@
       "authors": "Jie Zhu · Zhiyuan Xiao · Dong Wu",
       "url": "https://doi.org/10.1021/jacs.6c10930",
       "doi": "10.1021/jacs.6c10930"
+    },
+    {
+      "id": "crossref-0021-9258-75",
+      "journal": "Journal of Biological Chemistry",
+      "title": "Catalytic loop closure governs substrate selectivity in the rhizocticin biosynthetic ligases RhiM and RhiC",
+      "abstract": "Publisher record available. Open the article page for the full abstract.",
+      "topic": "molecule",
+      "topicLabel": "Molecular synthesis",
+      "score": 78,
+      "date": "2026-8",
+      "authors": "Mizuki Sakai · Ryosuke Masuda · Yu Hirano",
+      "url": "https://doi.org/10.1016/j.jbc.2026.113438",
+      "doi": "10.1016/j.jbc.2026.113438"
+    },
+    {
+      "id": "crossref-1552-4450-28",
+      "journal": "Nature Chemical Biology",
+      "title": "Cephalotaxinone enzymes reveal a whole plant model for homoharringtonine biosynthesis",
+      "abstract": "Publisher record available. Open the article page for the full abstract.",
+      "topic": "molecule",
+      "topicLabel": "Molecular synthesis",
+      "score": 78,
+      "date": "2026-7-6",
+      "authors": "Yaereen Dho · Kevin Smith · Elizabeth S. Sattely",
+      "url": "https://doi.org/10.1038/s41589-026-02260-8",
+      "doi": "10.1038/s41589-026-02260-8"
+    },
+    {
+      "id": "crossref-0305-1048-79",
+      "journal": "Nucleic Acids Research",
+      "title": "Intrinsic catalytic parameters drive specificity of non-templated poly(UG) tail synthesis",
+      "abstract": "Abstract RNA interference (RNAi) in nematodes is amplified through the generation of secondary small interferring RNA (siRNA) from products of primary siRNA cleavage. This process requires RDE-3, a unique ribonucleotidyltransferase that adds a poly(UG) tail of alternating U and G nucleotides without a template. Here we demonstrated using in vitro enzymatic assays that RDE-3 is intrinsically specific for substrate combinations that correctly extend the pUG tail and optimized for effective pUGylation in vivo. Specificity for cognate substrate pairs (3′-G RNA with UTP or 3′-U RNA with GTP) was driven primarily by a faster turnover rate, whereas non-cognate GG or UU extensions were dramatically slower. RDE-3 could also extend 3′-A or 3′-C RNA substrates with GTP or UTP, allowing it to initiate pUGylation of primary RNAi products, but at slower rates and with little GTP/UTP preference. We established an assay where products of both 3′-G and 3′-U RNA substrates in a reaction with GTP and UTP were followed simultaneously. We found that pUG extension was optimal and most accurate under conditions where GTP/UTP concentrations corresponded to their relative KMNTP values and typical cellular conditions.",
+      "topic": "rna",
+      "topicLabel": "RNA / DNA",
+      "score": 78,
+      "date": "2026-7-17",
+      "authors": "Bradley P Klemm · Andrew P Sikkema · Emily R Schugardt",
+      "url": "https://doi.org/10.1093/nar/gkag724",
+      "doi": "10.1093/nar/gkag724"
+    },
+    {
+      "id": "crossref-1755-4330-94",
+      "journal": "Nature Chemistry",
+      "title": "Transfer RNA deacylases as beacons for non-canonical amino acid biosynthesis",
+      "abstract": "Publisher record available. Open the article page for the full abstract.",
+      "topic": "molecule",
+      "topicLabel": "Molecular synthesis",
+      "score": 78,
+      "date": "2026-4-23",
+      "authors": "Yu-Hsuan Lee · Hung-wen Liu",
+      "url": "https://doi.org/10.1038/s41557-026-02139-0",
+      "doi": "10.1038/s41557-026-02139-0"
+    },
+    {
+      "id": "crossref-1552-4450-91",
+      "journal": "Nature Chemical Biology",
+      "title": "A biosynthetic survey of hypocrealean biocontrol fungi",
+      "abstract": "Publisher record available. Open the article page for the full abstract.",
+      "topic": "molecule",
+      "topicLabel": "Molecular synthesis",
+      "score": 75,
+      "date": "2026-4-16",
+      "authors": "Ana Calheiros de Carvalho · Naiara Hurtado-Lopez · Carolina Cano-Prieto",
+      "url": "https://doi.org/10.1038/s41589-026-02201-5",
+      "doi": "10.1038/s41589-026-02201-5"
     }
   ],
   "preprints": []
