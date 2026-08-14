@@ -1,0 +1,29 @@
+{
+  "generatedAt": "2026-08-14T01:56:43.445Z",
+  "source": "Crossref + bioRxiv public APIs",
+  "verified": true,
+  "rejectedSources": [
+    "Nature Chemical Biology",
+    "Science Advances",
+    "Cell",
+    "Angewandte Chemie",
+    "Journal of Biological Chemistry",
+    "Nucleic Acids Research"
+  ],
+  "articles": [
+    {
+      "id": "crossref-0002-7863-14",
+      "journal": "JACS",
+      "title": "Star Polyelectrolyte Coacervates Enable Adaptive and Robust Enzyme Immobilization for Efficient Biocatalysis",
+      "abstract": "Abstract Enzyme immobilization in solid porous supports often suffers from a trade-off among enzyme loading, mass transport, catalytic activity, and operational stability. Here, we report a liquid-like immobilization platform based on star polyelectrolyte coacervates (SPECs) formed by simple mixing of oppositely charged star polyelectrolytes. The multivalent star topology organizes the coacervate into a compact yet dynamically adaptive network, enabling enzyme loading efficiencies exceeding 97% and order-of-magnitude enhancements in apparent catalytic rates. Moreover, SPEC exhibits topology-enabled ion exclusion that suppresses ion penetration even under high-salinity conditions, thereby stabilizing both the coacervate structure and embedded enzymes. As a result, SPEC maintains high catalytic activity under salinity, pH, temperature, and organic solvent perturbations and supports sustained continuous-flow biocatalysis. The platform is broadly applicable to diverse enzymes, including lipases from multiple biological sources, alkaline phosphatase, and trypsin, thereby establishing SPEC as a general and scalable immobilization strategy for efficient and practical biocatalysis.",
+      "topic": "molecule",
+      "topicLabel": "Molecular synthesis",
+      "score": 78,
+      "date": "2026-8-13",
+      "authors": "Jie Zhu · Zhiyuan Xiao · Dong Wu",
+      "url": "https://doi.org/10.1021/jacs.6c10930",
+      "doi": "10.1021/jacs.6c10930"
+    }
+  ],
+  "preprints": []
+}
