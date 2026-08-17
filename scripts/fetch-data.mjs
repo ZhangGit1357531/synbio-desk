@@ -2,6 +2,7 @@ import fs from 'node:fs/promises';
 
 const journals = [
   ['Nature', '0028-0836'],
+  ['Nature Communications', '2041-1723'],
   ['Nature Chemistry', '1755-4330'],
   ['Nature Structural & Molecular Biology', '1545-7885'],
   ['Nature Biotechnology', '1087-0156'],
