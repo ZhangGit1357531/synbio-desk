@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-08-24T04:11:13.344Z",
+  "generatedAt": "2026-08-31T01:22:57.087Z",
   "source": "Crossref + bioRxiv public APIs",
   "verified": true,
   "rejectedSources": [],
   "articles": [
     {
-      "id": "crossref-0305-1048-20",
+      "id": "crossref-0305-1048-38",
       "journal": "Nucleic Acids Research",
       "title": "Discovery and biosynthesis of a novel diaminopropane-modified thymine in phage DNA",
       "abstract": "Abstract Bacteriophage genomes exhibit exceptional diversity in nucleotide modifications, which primarily function to counteract host defense systems. However, the diversity of phage DNA hypermodifications remains largely unexplored in post genome era. Here, we discovered a novel thymine hypermodification, α-1,3-diaminopropanylthymine (α-dapT), in the Acinetobacter baumannii phage SH-Ab 15599, and elucidated its biosynthetic pathway, featuring the phage-encoded key diamine DNA transferase (DADT, formerly αGPT-Pplase2). DADT utilizes the metabolite 1,3-diaminopropane, which is the major polyamine in the host to modify phage DNA. DADT exhibits broad in vitro substrate specificity but a strong in vivo preference for 1,3-diaminopropane. Structural and mutagenesis analyses revealed the molecular basis for substrate recognition and catalysis. The α-dapT modification occurs preferentially at TG dinucleotides and confers resistance to multiple host restriction enzymes. Furthermore, RNA-seq analysis showed that phage infection upregulates genes for 1,3-diaminopropane synthesis, and downregulates genes for 1,3-diaminoproprane consumption to supply the modification precursor. Given that 1,3-diaminopropane functions as a key regulator in mobility of A. baumannii, its metabolic reprograming may impair host biofilm formation.",
@@ -18,33 +18,7 @@
       "doi": "10.1093/nar/gkag763"
     },
     {
-      "id": "crossref-1433-7851-50",
-      "journal": "Angewandte Chemie",
-      "title": "Photometallobiocatalytic Asymmetric Radical‐Mediated Cross‐Coupling of Organotrifluoroborate Salts and Pyridotriazoles",
-      "abstract": "ABSTRACT The cooperative integration of photoredox catalysis and metalloenzyme catalysis has emerged as a powerful strategy for enabling stereoselective radical transformations beyond the capabilities of either catalytic mode alone. Herein, we report a photometallobiocatalytic enantioselective intermolecular C─C cross‐coupling of pyridotriazoles and secondary alkyltrifluoroborate salts through cooperative catalysis between an organic photosensitizer and an engineered protoglobin. By combining visible‐light‐mediated radical generation with enzymatic activation of pyridotriazoles to form reactive Fe carbenoid intermediates, this transformation enabled highly enantioselective radical C─C bond formation through a proposed outer‐sphere coupling mechanism. Through biocatalyst mining and directed evolution, engineered Aeropyrum pernix protoglobin catalysts were developed that catalyzed this radical C–C coupling with excellent efficiency and stereocontrol. The photobiocatalytic platform exhibited a broad substrate scope with respect to both secondary alkyltrifluoroborate salts and pyridotriazoles, affording a range of valuable N‐heterocyclic products in excellent yields and enantioselectivities. Mechanistic studies supported the involvement of radical intermediates and revealed spontaneous binding between the photocatalyst eosin B and the engineered metalloenzyme. By leveraging cooperative photometallobiocatalysis, this work established an underexplored strategy for asymmetric intermolecular radical cross‐coupling via an outer‐sphere mechanism, further expanding the catalytic repertoire of transition‐metal carbenoid chemistry.",
-      "topic": "molecule",
-      "topicLabel": "Molecular synthesis",
-      "score": 81,
-      "date": "2026-8-22",
-      "authors": "Huanan Wang · Binh Khanh Mai · Xingjie Zhang",
-      "url": "https://doi.org/10.1002/anie.7251439",
-      "doi": "10.1002/anie.7251439"
-    },
-    {
-      "id": "crossref-1433-7851-33",
-      "journal": "Angewandte Chemie",
-      "title": "Reversible Redox Cycling: A Mechanism for Toxification and Detoxification in Fungal Alkyl Salicylaldehyde Biosynthesis",
-      "abstract": "ABSTRACT Understanding how natural product producers tolerate the reactive and toxic compounds they synthesize contributes to discovering novel therapeutics and deciphering unusual biosynthetic mechanisms. Alkyl salicylaldehydes are secondary metabolites widely distributed in fungi, exhibiting great structural diversity and various biological activities. However, the mechanism by which fungi partition these reactive species to avoid self‐toxicity remains poorly understood. In this study, by heterologous reconstruction and biochemical characterization of the alkyl salicylaldehyde biosynthetic gene cluster from Stachybotrys sp. g12, we uncovered a multienzyme self‐resistance strategy driven by a reversible redox cycle. The biosynthetic pathway employs the intracellular reductase StrM to detoxify the aldehyde precursor into a stable alcohol prodrug, ensuring safe biosynthesis and cellular efflux. Once exported from the cell, the extracellular oxidase, StrJ, triggers toxification by regenerating the aldehyde species. Furthermore, the redundant reductases StrH and StrK provide a “double‐insurance” detoxification defense by rapidly re‐reducing any toxic aldehydes that reenter the cell. Collectively, our findings characterize a self‐resistance mechanism common in fungal alkyl salicylaldehyde biosynthesis and provide a strategy for the safe microbial synthesis of highly reactive aldehyde natural products.",
-      "topic": "molecule",
-      "topicLabel": "Molecular synthesis",
-      "score": 78,
-      "date": "2026-8-22",
-      "authors": "Chao Peng · Na Jia · Meng‐Yun Guo",
-      "url": "https://doi.org/10.1002/anie.3171374",
-      "doi": "10.1002/anie.3171374"
-    },
-    {
-      "id": "crossref-0002-7863-28",
+      "id": "crossref-0002-7863-26",
       "journal": "JACS",
       "title": "Biosynthesis of Crinipellin Diterpenes in Mushroom Marasmius fiardii PR-910",
       "abstract": "Abstract Crinipellins are a distinctive family of 5/5/5/5 tetracyclic diterpenoids previously reported exclusively from mushrooms of the genus Crinipellis. Despite extensive synthetic studies, the biosynthetic machinery responsible for crinipellin formation has remained elusive. Here, we identify the crinipellin biosynthetic gene cluster (mfd) from the mushroom Marasmius fiardii PR-910, a member of the family Marasmiaceae to which Crinipellis also belongs, although M. fiardii PR-910 itself has not been previously reported to produce crinipellins. Using a combination of site-directed mutagenesis guided by an AlphaFold3-generated structural model, stable isotope-labeling studies, density functional theory (DFT) calculations, and ab initio molecular dynamics (AIMD) simulations, the cyclization mechanism of the diterpene synthase MfdB, which constructs the fused tetraquinane scaffolds 1 and 2, was elucidated. Mutagenesis of MfdB uncovered cryptic cyclization pathways that generate structurally diverse diterpenes, including unprecedented bridged and rearranged diterpene skeletons (4–6), whose formation is supported by computational analyses, and further revealed an unusual arginine-rich diphosphate-binding architecture. Heterologous expression studies in Aspergillus oryzae and Saccharomyces cerevisiae established the oxidative functions of the cytochrome P450 enzymes MfdC, MfdD, and MfdE, leading to the production of 19 previously undescribed oxidized metabolites (16–34). Notably, MfdE, a member of the largely unexplored CYP_FUM15-like subfamily, catalyzes an unusual oxidative demethylation through C–C bond cleavage, expanding the known catalytic repertoire of fungal cytochrome P450 enzymes. Collectively, this work establishes the biosynthetic logic of crinipellin formation, reveals how terpene synthase plasticity generates cryptic diterpene scaffolds, and demonstrates how oxidative tailoring by multiple cytochrome P450 enzymes drives diterpene scaffold diversification.",
@@ -57,7 +31,7 @@
       "doi": "10.1021/jacs.6c10016"
     },
     {
-      "id": "crossref-1755-4330-7",
+      "id": "crossref-1755-4330-10",
       "journal": "Nature Chemistry",
       "title": "Nitrene generation and transfer for unnatural biosynthesis in living cells",
       "abstract": "Abstract Synthetic biology has enabled the production of natural and unnatural products from inexpensive sustainable feedstocks. Yet, the scope of available products has been limited largely to compounds accessible from nature’s chemical reactions. Evolved enzymes can catalyse reactions of unnatural substrates or reactions not found in nature but often require the addition of synthetic reagents to purified enzymes or to resting cells containing those enzymes. Here we show that chemical reactions of metabolic intermediates produced intracellularly in living cells can include intermolecular nitrene transfers. The biosynthesis of N -acetoxyanilines, in combination with the generation and transfer of N -aryl nitrene intermediates from them catalysed by a cytochrome P450, generates amino alcohols, diamines, diarylamines and aminoalkyl arenes from simple carbon feedstocks. These products—common substructures of pharmaceuticals and agrochemicals—are challenging to synthesize by standard organic chemistry and were produced from inexpensive, renewable feedstocks. Evolution of the enzymes in this pathway showed that titres can be increased by engineering and that the products can be synthesized with high enantioselectivity.",
@@ -70,20 +44,7 @@
       "doi": "10.1038/s41557-026-02224-4"
     },
     {
-      "id": "crossref-0021-9258-84",
-      "journal": "Journal of Biological Chemistry",
-      "title": "Catalytic loop closure governs substrate selectivity in the rhizocticin biosynthetic ligases RhiM and RhiC",
-      "abstract": "Publisher record available. Open the article page for the full abstract.",
-      "topic": "molecule",
-      "topicLabel": "Molecular synthesis",
-      "score": 78,
-      "date": "2026-8",
-      "authors": "Mizuki Sakai · Ryosuke Masuda · Yu Hirano",
-      "url": "https://doi.org/10.1016/j.jbc.2026.113438",
-      "doi": "10.1016/j.jbc.2026.113438"
-    },
-    {
-      "id": "crossref-1552-4450-34",
+      "id": "crossref-1552-4450-38",
       "journal": "Nature Chemical Biology",
       "title": "Cephalotaxinone enzymes reveal a whole plant model for homoharringtonine biosynthesis",
       "abstract": "Publisher record available. Open the article page for the full abstract.",
@@ -96,7 +57,20 @@
       "doi": "10.1038/s41589-026-02260-8"
     },
     {
-      "id": "crossref-0036-8075-6",
+      "id": "crossref-2375-2548-78",
+      "journal": "Science Advances",
+      "title": "Structural and functional analysis of LarC, a CTP-dependent cyclometallase required for nickel-pincer nucleotide cofactor biosynthesis",
+      "abstract": "Biosynthesis of the nickel-pincer mononucleotide metallocofactor requires a CTP-dependent nickel insertion reaction catalyzed by LarC, whose mechanism of C-Ni bond formation is not fully understood. Here, we report the first cryo–electron microscopy structures of full-length LarC from Moorella thermoacetica with and without a mimic of the CMPylated reaction intermediate. LarC assembles as a hexamer comprising a central LarC2 domain core and peripheral LarC1 domain trimers connected by long, flexible interdomain linkers. The LarC1 domains contain a conserved histidine-rich region for nickel binding and an adjacent conserved acidic pocket, both essential for activity. Structural modeling suggests that the intermediate binds within the acidic pocket adjacent to the putative nickel-binding site, while cryo-EM density for an intermediate analog identifies an interdomain cleft near the LarC2 CTP-binding site as a likely transfer site. Based on these findings, we propose that the intermediate is transferred through the interdomain cleft from LarC2, where it is CMPylated, to LarC1 for nickel insertion.",
+      "topic": "molecule",
+      "topicLabel": "Molecular synthesis",
+      "score": 75,
+      "date": "2026-8-28",
+      "authors": "Robert Wolfe · Aiko Turmo · Samantha Velasquez-Rivertte",
+      "url": "https://doi.org/10.1126/sciadv.aeh6867",
+      "doi": "10.1126/sciadv.aeh6867"
+    },
+    {
+      "id": "crossref-0036-8075-40",
       "journal": "Science",
       "title": "A cinnamyl alcohol dehydrogenase–like scaffold organizes monoterpenoid indole alkaloid biosynthesis",
       "abstract": "Biosynthesis of ~3000 monoterpenoid indole alkaloids (MIAs), including the anticancer drug vinblastine, involves the highly unstable intermediate strictosidine aglycone. Its formation by strictosidine β-glucosidase (SGD) and subsequent conversion by geissoschizine synthase (GS) occur in spatially separated compartments, representing a major biosynthesis bottleneck. In this study, we discover VinBLAST, a cinnamyl alcohol dehydrogenase–like protein repurposed as a scaffold for efficient processing of this labile intermediate. VinBLAST physically mediates the interaction of SGD and GS in the nucleus and allosterically enhances the catalytic efficiency of GS. VinBLAST homologs from diverse plant families enhance the biosynthesis of several representative MIAs, with the production of catharanthine increased to ~160 milligrams per liter in yeast, nearly 1000-fold higher than shown in previous studies. Our discovery provides a missing link in organizing MIA biosynthesis and enables scalable bioproduction of geissoschizine-derived therapeutics.",
@@ -107,24 +81,45 @@
       "authors": "Di Gao · Scott Galeung Alexander Mann · Binbin Chen",
       "url": "https://doi.org/10.1126/science.aeb0357",
       "doi": "10.1126/science.aeb0357"
+    },
+    {
+      "id": "crossref-0021-9258-8",
+      "journal": "Journal of Biological Chemistry",
+      "title": "Crystal structure of a β1,3-Glucosyltransferase reveals an unusual substrate recognition by a two-domain GT-A fold glycosyltransferase",
+      "abstract": "Publisher record available. Open the article page for the full abstract.",
+      "topic": "molecule",
+      "topicLabel": "Molecular synthesis",
+      "score": 72,
+      "date": "2026-8",
+      "authors": "Steven J. Berardinelli · Renuka Kadirvelraj · Kelvin B. Luther",
+      "url": "https://doi.org/10.1016/j.jbc.2026.113418",
+      "doi": "10.1016/j.jbc.2026.113418"
     }
   ],
   "preprints": [
     {
       "num": "01",
-      "title": "Hybrid genome-scale modeling and machine learning reveal cost-efficient strategies for phototrophic PHB production in Rhodopseudomonas palustris",
-      "meta": "bioRxiv · 2026-04-26",
+      "title": "An ancient cis-element regulates translation of arginine decarboxylase to control downstream polyamine biosynthesis and stress responses",
+      "meta": "bioRxiv · 2026-05-03",
       "topic": "molecule",
-      "url": "https://doi.org/10.64898/2026.04.24.720730",
-      "doi": "10.64898/2026.04.24.720730"
+      "url": "https://doi.org/10.64898/2026.04.30.721942",
+      "doi": "10.64898/2026.04.30.721942"
     },
     {
       "num": "02",
-      "title": "Origins of reactivity in SAM-utilizing ribozyme SAMURI-catalyzed RNA alkylation",
-      "meta": "bioRxiv · 2026-04-26",
-      "topic": "rna",
-      "url": "https://doi.org/10.64898/2026.04.24.720726",
-      "doi": "10.64898/2026.04.24.720726"
+      "title": "Enhanced photosynthetic efficiency and ROS modulation promote cold stress tolerance of indica rice",
+      "meta": "bioRxiv · 2026-05-03",
+      "topic": "molecule",
+      "url": "https://doi.org/10.64898/2026.04.30.721858",
+      "doi": "10.64898/2026.04.30.721858"
+    },
+    {
+      "num": "03",
+      "title": "Geissoschizine scaffolding enzymes shape monoterpene indole alkaloid biosynthesis",
+      "meta": "bioRxiv · 2026-05-03",
+      "topic": "molecule",
+      "url": "https://doi.org/10.64898/2026.04.29.721795",
+      "doi": "10.64898/2026.04.29.721795"
     }
   ]
 }
