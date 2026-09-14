@@ -1,24 +1,37 @@
 {
-  "generatedAt": "2026-09-07T01:27:11.955Z",
+  "generatedAt": "2026-09-14T01:28:33.560Z",
   "source": "Crossref + bioRxiv public APIs",
   "verified": true,
   "rejectedSources": [],
   "articles": [
     {
-      "id": "crossref-1433-7851-43",
+      "id": "crossref-1433-7851-96",
       "journal": "Angewandte Chemie",
-      "title": "Noncanonical Peloruside A Biosynthesis by an Uncultivated Verrucomicrobiota Symbiont",
-      "abstract": "ABSTRACT Peloruside A, a polyketide macrolide identified in the marine sponge Mycale hentscheli , is a promising anticancer drug candidate due to its ability to stabilize tubulin at a nontaxoid binding site. Substantial efforts were made to improve the supply of this scarce substance through chemical synthesis and mariculture, however, sustainable production has yet to be achieved. Recent microbiome sequencing suggested that bacterial producers are responsible for all M. hentscheli bioactive compounds, but the identity of the peloruside producer remained unknown. Furthermore, a candidate peloruside polyketide synthase (PKS) was identified in silico, but its highly aberrant architecture prevented a confident biosynthetic prediction for the pharmacologically important exocyclic double bond. Here, we reveal an unusually complex modular PKS pathway comprising nonelongating ketosynthases (KSs), two internal thioesterases (TEs), and an acetyl coenzyme A ligase that orchestrate O ‐acetylation/elimination, acetyl‐CoA recycling, and configurational proof‐reading to facilitate selective Z ‐double bond incorporation. The first internal TE falls into a previously characterized O ‐acylating TE family but contains key amino acid substitutions that facilitate bifunctional acylation/elimination activity. Furthermore, we identified the peloruside producer as ‘ Candidatus Pelorusia occulta’, a member of the biochemically underexplored Lentisphaeria class within the phylum Verrucomicrobiota. This work provides the biochemical and microbiological foundation for heterologous peloruside production.",
+      "title": "Bifunctional Core–Shell Architecture of nFe 0 @CNT Enables Efficient Biocatalytic Reduction",
+      "abstract": "ABSTRACT Typical biotic‐abiotic hybrid systems utilize external energy (e.g., light or electricity) to boost biocatalytic reduction reactions. In this study, we propose a bifunctional core–shell architecture (graphitized carbon‐coated nano iron, nFe 0 @CNT) to improve biocatalytic reduction performance without relying on external energy to deliver electrons into the cells. The carbon shell increased the substrate utilization rate by 87%, along with an increased pool of the intracellular electron carrier nicotinamide adenine dinucleotide (NADH). Concurrently, the nano iron core enhanced the activities of NADH dehydrogenase and functional enzymes by 66.5% and 69.3%, respectively, increasing the capacity for NADH utilization. This simultaneous enhancement of substrate utilization and enzyme activities markedly promoted bio‐denitrification and biosynthesis. Life cycle assessment and economic analysis demonstrate that this strategy yields lower environmental impacts relative to conventional strategies for enhancing biocatalysis, with carbon emissions reduced by 50.0%–86.0% and costs decreased by 79.2%–89.2%. This work provides a new paradigm for enhancing biocatalytic reduction by functional materials without external energy input.",
       "topic": "molecule",
       "topicLabel": "Molecular synthesis",
       "score": 84,
-      "date": "2026-9-3",
-      "authors": "Amy E. Fraley · Michael Rust · Moritz Wagner",
-      "url": "https://doi.org/10.1002/anie.2011872",
-      "doi": "10.1002/anie.2011872"
+      "date": "2026-9-8",
+      "authors": "Nuo Xu · Wang‐Xiao Jia · Jia‐Hui Du",
+      "url": "https://doi.org/10.1002/anie.9389619",
+      "doi": "10.1002/anie.9389619"
     },
     {
-      "id": "crossref-0305-1048-52",
+      "id": "crossref-0305-1048-9",
+      "journal": "Nucleic Acids Research",
+      "title": "Primer- and template-independent RNA polymerization by terminal nucleotidyltransferase TENT4B",
+      "abstract": "Abstract RNA synthesis by eukaryotic polymerases requires existing polynucleotides to serve as templates or primers. Here, we describe primer- and template-free RNA generation by human terminal nucleotidyltransferase 4B (TENT4B) via de novo polymerization of free nucleotides. We observed that recombinant TENT4B (rTENT4B) consumes ATP to yield inorganic pyrophosphate in the absence of a primer or template, concurrent with the appearance of oligomeric poly-adenosine RNA products. Remarkably, 5′ labels on γ-phosphate-modified ATP or GTP are retained during polymerization in the presence of unlabeled nucleotide triphosphates (NTPs). These polymers are created at a similar efficiency irrespective of the inclusion of a primer, indicating robust RNA synthesis by rTENT4B from free NTPs. While canonical purine NTPs are favored, nucleotide diphosphates (NDPs) can also serve as substrates for rTENT4B-mediated de novo RNA polymerization. rTENT4B-mediated RNA synthesis using free adenosine nucleotides shows high processivity to generate 1000s-mers, whereas guanosine nucleotide polymerization is strongly and uniformly self-limited and yields a 3′-exonuclease-resistant oligonucleotide. Interrogation of other RNA polymerases reveals potential capacity for de novo polymerization using free ATP, albeit at significantly higher substrate concentrations and lower efficiency compared with rTENT4B. Our data provide definitive evidence of efficient template-free de novo RNA synthesis by a eukaryotic polymerase.",
+      "topic": "rna",
+      "topicLabel": "RNA / DNA",
+      "score": 84,
+      "date": "2026-9-7",
+      "authors": "Neha Nagpal · Albert K Tai · Yick W Fong",
+      "url": "https://doi.org/10.1093/nar/gkag864",
+      "doi": "10.1093/nar/gkag864"
+    },
+    {
+      "id": "crossref-0305-1048-75",
       "journal": "Nucleic Acids Research",
       "title": "Discovery and biosynthesis of a novel diaminopropane-modified thymine in phage DNA",
       "abstract": "Abstract Bacteriophage genomes exhibit exceptional diversity in nucleotide modifications, which primarily function to counteract host defense systems. However, the diversity of phage DNA hypermodifications remains largely unexplored in post genome era. Here, we discovered a novel thymine hypermodification, α-1,3-diaminopropanylthymine (α-dapT), in the Acinetobacter baumannii phage SH-Ab 15599, and elucidated its biosynthetic pathway, featuring the phage-encoded key diamine DNA transferase (DADT, formerly αGPT-Pplase2). DADT utilizes the metabolite 1,3-diaminopropane, which is the major polyamine in the host to modify phage DNA. DADT exhibits broad in vitro substrate specificity but a strong in vivo preference for 1,3-diaminopropane. Structural and mutagenesis analyses revealed the molecular basis for substrate recognition and catalysis. The α-dapT modification occurs preferentially at TG dinucleotides and confers resistance to multiple host restriction enzymes. Furthermore, RNA-seq analysis showed that phage infection upregulates genes for 1,3-diaminopropane synthesis, and downregulates genes for 1,3-diaminoproprane consumption to supply the modification precursor. Given that 1,3-diaminopropane functions as a key regulator in mobility of A. baumannii, its metabolic reprograming may impair host biofilm formation.",
@@ -31,46 +44,33 @@
       "doi": "10.1093/nar/gkag763"
     },
     {
-      "id": "crossref-0002-7863-68",
-      "journal": "JACS",
-      "title": "Epoxide-Mediated Carbon Dioxide Coupling Yields the Five-Membered Cyclic Carbonate in Cytosporin Biosynthesis",
-      "abstract": "Abstract Organic carbonates (OCs) have a wide range of applications across materials science, synthetic chemistry, and medicine. The development of efficient catalytic processes for converting carbon dioxide (CO2) into OCs represents a crucial objective in sustainable chemistry and energy research. Among available strategies, the coupling of CO2 with epoxides to form cyclic carbonates is one of the most technologically and economically promising routes for CO2 valorization. Although considerable progress has been made in designing high-performance catalysts for this transformation, several limitations remain, including dependence on organic solvents, transition metal-based catalytic systems, and energy-intensive conditions, typically involving elevated temperatures and high CO2 pressures. While an increasing number of naturally occurring OCs have been identified, the biosynthetic mechanisms underlying their formation, especially for fungal-derived five-membered cyclic carbonates, remain largely unknown. In this study, we identified and functionally characterized all enzymes involved in cytosporin biosynthesis and elucidated the complete biosynthetic pathway. We demonstrated that the five-membered cyclic carbonate moiety in cytosporin E arises through a nonenzymatic, epoxide-mediated CO2 coupling reaction under neutral aqueous conditions. This strategy for constructing a five-membered cyclic carbonate is unprecedented in natural product biosynthesis and may offer valuable insights for developing environmentally benign synthetic routes toward OCs.",
-      "topic": "molecule",
-      "topicLabel": "Molecular synthesis",
-      "score": 81,
-      "date": "2026-9-1",
-      "authors": "Hua Xiao · Yong He · Xiufeng Zhang",
-      "url": "https://doi.org/10.1021/jacs.6c12612",
-      "doi": "10.1021/jacs.6c12612"
-    },
-    {
-      "id": "crossref-0002-7863-53",
-      "journal": "JACS",
-      "title": "Biosynthesis of YM-216391 Unveils a Bifunctional α-Ketoglutarate-Dependent Enzyme Catalyzes Hydroxylation and Epimerization in RiPPs",
-      "abstract": "Abstract Nonheme iron/α-ketoglutarate-dependent dioxygenases (Fe/αKGDs) catalyze diverse oxidative transformations, including hydroxylation, desaturation, and ring expansion. Although these reactions are well established, Fe/αKGD-catalyzed epimerization remains rare and has not been characterized in ribosomally synthesized and post-translationally modified peptides (RiPPs). Here, we report the RiPP-modifying enzyme YmI, a bifunctional Fe/αKGD that catalyzes Cβ-hydroxylation of Phe19 and Cα-epimerization of Ile20 on the precursor peptide YmA toward the formation of YM-216391. The hydroxylation generates (2S,3R)-β-hydroxyphenylalanine, whose l-threonine-like stereochemistry facilitates subsequent formation of an unusual 5-phenyloxazole moiety. Substrate profiling analyses reveal leader peptide dependence for catalytic activity. Structural and docking studies provide insights into the substrate binding and active site architecture. Deuterium labeling demonstrates that YmI catalyzes Ile epimerization by directly abstracting the Cα-hydrogen, generating a Cα radical that is subsequently reprotonated by a nonexchangeable hydrogen source within the enzyme. These results unveil an unprecedented mechanism and novel bifunctionality, markedly expanding the reaction landscape for αKG-dependent enzymes in RiPP biosynthesis.",
+      "id": "crossref-1552-4450-1",
+      "journal": "Nature Chemical Biology",
+      "title": "Pyridoxal-phosphate-dependent biosynthesis of aminovaleramide by AvaS in tRNA",
+      "abstract": "Publisher record available. Open the article page for the full abstract.",
       "topic": "molecule",
       "topicLabel": "Molecular synthesis",
       "score": 78,
-      "date": "2026-9-2",
-      "authors": "Kai Zhang · Lian Wu · Min-Jie Yang",
-      "url": "https://doi.org/10.1021/jacs.6c11815",
-      "doi": "10.1021/jacs.6c11815"
+      "date": "2026-9-9",
+      "authors": "Jingjing Sun · Junzhou Wu · Yifeng Yuan",
+      "url": "https://doi.org/10.1038/s41589-026-02303-0",
+      "doi": "10.1038/s41589-026-02303-0"
     },
     {
-      "id": "crossref-0002-7863-63",
-      "journal": "JACS",
-      "title": "Family of β-Propeller Diels–Alderases Directs cis -Decalin Formation in Polyketide Biosynthesis",
-      "abstract": "Abstract Decalin-forming Diels–Alderases (pericyclases) exemplify how Nature repeatedly recruits unrelated protein folds to control [4 + 2] cycloadditions, yet exo-selective intramolecular Diels–Alder (IMDA) reactions that yield cis-fused decalins remain rare and poorly understood. Here, we uncover a previously unrecognized bacterial pericyclase family that enforces an exo-IMDA trajectory in polyketide assembly. Using alchivemycin A, a macrocyclic antibacterial polyketide whose scaffold is defined by a highly functionalized cis-decalin core, we identify AvmG as the dedicated decalin-forming enzyme. Disruption of avmG diverts pathway flux to trans-decalin shunt isomers consistent with spontaneous, endo-biased cyclization that cannot be processed by the downstream macrocyclase, whereas AvmG enables formation of the authentic cis-decalin intermediate. AvmG is unrelated to known [4 + 2] cyclases and adopts an integrin α N-terminal domain-like β-propeller architecture, revealing an unexpected scaffold for pericyclic stereocontrol. Genome mining shows that AvmG-like proteins are widespread and enriched in actinomycete polyketide gene clusters; characterization of the lydicamycin homolog LymR establishes conserved exo-IMDA activity in a distinct pathway. Structural and mutational analyses implicate a loop-defined catalytic cavity in steering the kinetically demanding cis-decalin outcome. Together, these findings expand the fold and mechanistic diversity of Diels–Alderases, define an exo-selective β-propeller pericyclase superfamily, and provide a new handle for mining and bioengineering cis-decalin biosynthetic pathways.",
+      "id": "crossref-1433-7851-67",
+      "journal": "Angewandte Chemie",
+      "title": "Discovery and Characterization of Conserved N‐Oxide‐Forming Function of FAD‐Dependent Monooxygenases for Fungal Prenylated Indole Alkaloid Biosynthesis",
+      "abstract": "ABSTRACT N‐oxides are ubiquitous functional groups in natural products, conferring critical biological properties such as enhanced solubility and modulated membrane permeability. However, the biosynthetic pathways for N‐oxide formation in complex prenylated indole alkaloids (PIAs), especially the penicimutamides, remain poorly understood. Here, we describe the discovery and biochemical characterization of new activities of FAD‐dependent monooxygenase (FMO) PldC, which sequentially catalyzes the indole 2,3‐epoxidation‐rearrangement of penicimutamide E, and the regioselective N13‐oxidation of penicimutamide D to produce penicimutamide D N‐oxide. Furthermore, conserved N‐oxide‐forming activity was confirmed as a new function with another two known FMOs of CtdE and PhqK involved in the biosynthesis of citrinadins and paraherquamides, respectively. These findings provide mechanistic insights into FMO function, revealing a remarkable catalytic plasticity whereby a single enzyme family drives dual oxidative pathways (C‐oxidation and N‐oxidation) to generate structurally diverse alkaloid metabolites. Collectively, our findings expand the catalytic landscape of FMOs, suggesting N‐oxide formation as a conserved functional trait across this enzyme family during fungal PIA biosynthesis. These results also shed new light on the evolutionary trajectories and catalytic design principles of FMOs in the assembly of complex natural products.",
       "topic": "molecule",
       "topicLabel": "Molecular synthesis",
       "score": 78,
-      "date": "2026-9-1",
-      "authors": "Er Juan Zhao · Qing Yan Ling · Xiu Xiu Ma",
-      "url": "https://doi.org/10.1021/jacs.6c12942",
-      "doi": "10.1021/jacs.6c12942"
+      "date": "2026-9-9",
+      "authors": "Tiandong Hu · Peiyuan Feng · Ting Lin",
+      "url": "https://doi.org/10.1002/anie.9391687",
+      "doi": "10.1002/anie.9391687"
     },
     {
-      "id": "crossref-1755-4330-13",
+      "id": "crossref-1755-4330-16",
       "journal": "Nature Chemistry",
       "title": "Nitrene generation and transfer for unnatural biosynthesis in living cells",
       "abstract": "Abstract Synthetic biology has enabled the production of natural and unnatural products from inexpensive sustainable feedstocks. Yet, the scope of available products has been limited largely to compounds accessible from nature’s chemical reactions. Evolved enzymes can catalyse reactions of unnatural substrates or reactions not found in nature but often require the addition of synthetic reagents to purified enzymes or to resting cells containing those enzymes. Here we show that chemical reactions of metabolic intermediates produced intracellularly in living cells can include intermolecular nitrene transfers. The biosynthesis of N -acetoxyanilines, in combination with the generation and transfer of N -aryl nitrene intermediates from them catalysed by a cytochrome P450, generates amino alcohols, diamines, diarylamines and aminoalkyl arenes from simple carbon feedstocks. These products—common substructures of pharmaceuticals and agrochemicals—are challenging to synthesize by standard organic chemistry and were produced from inexpensive, renewable feedstocks. Evolution of the enzymes in this pathway showed that titres can be increased by engineering and that the products can be synthesized with high enantioselectivity.",
@@ -83,7 +83,7 @@
       "doi": "10.1038/s41557-026-02224-4"
     },
     {
-      "id": "crossref-1552-4450-41",
+      "id": "crossref-1552-4450-52",
       "journal": "Nature Chemical Biology",
       "title": "Cephalotaxinone enzymes reveal a whole plant model for homoharringtonine biosynthesis",
       "abstract": "Publisher record available. Open the article page for the full abstract.",
@@ -96,33 +96,33 @@
       "doi": "10.1038/s41589-026-02260-8"
     },
     {
-      "id": "crossref-0002-7863-0",
-      "journal": "JACS",
-      "title": "Structural Elucidation and Revised Biosynthetic Pathway of the Membrane Vesicle–Associated Antifungal Compound AFC-BC11",
-      "abstract": "Abstract Bacterial membrane vesicles (MVs) serve as delivery vehicles for hydrophobic and membrane-associated secondary metabolites, enhancing their solubility, stability, and bioactivity. Here, we show that the antifungal compound AFC-BC11, produced by Burkholderia cenocepacia K56–2, is released via MVs. Using HR-MS/MS, NMR, chemical degradation, and stable isotope feeding experiments, we determined the chemical structure of this compound and analyzed its biosynthesis. Our results confirm that the structure largely matches the recent report by Zhong et al., with a key difference: the double bond in the fatty acid moiety is positioned between C11 and C12. We provide compelling evidence that this constitution reflects the direct incorporation of cis-vaccenic acid, one of the most abundant fatty acids in B. cenocepacia, rather than a tailoring modification. Comparative analysis of afcU, afcF, and afcS mutants suggests a biosynthetic route involving ω-modification of cis-vaccenic acid, which would revise previously proposed pathways and open avenues for acyl chain engineering. Together, these findings establish AFC-BC11 as an MV-associated antifungal metabolite, provide a refined structural and biosynthetic model, and highlight the role of MVs in the dispersal of hydrophobic bioactive compounds.",
+      "id": "crossref-1433-7851-72",
+      "journal": "Angewandte Chemie",
+      "title": "Adenylation Domain Engineering Enables Biosynthesis of an Improved Polymyxin Antibiotic",
+      "abstract": "ABSTRACT Polymyxins are potent nonribosomal peptide antibiotics, yet their clinical use is limited by a narrow therapeutic window and nephro‐/neurotoxicity. Conventional efforts to improve these agents rely on the incorporation of nonnatural building blocks that cannot be accessed biosynthetically and therefore must be introduced by total synthesis. Here we report a biosynthetic route to a next‐generation polymyxin that circumvents this limitation. By engineering the substrate‐binding pocket of a nonribosomal adenylation (A‐)domain, we created a mutationally expanded pocket that selectively activates the fatty amino acid l ‐2‐aminodecanoic acid ( l ‐Ada). Incorporation of this engineered A‐domain into the native polymyxin biosynthesis enabled production of Ada‐polymyxin with high potential for lowered toxicity directly in Paenibacillus polymyxa fermentation. This work demonstrates that rational redesign of nonribosomal A‐domains can redirect natural product biosynthesis toward chemically diverse, therapeutically superior antibiotics, opening new avenues for combating drug‐resistant bacteria.",
       "topic": "molecule",
       "topicLabel": "Molecular synthesis",
       "score": 75,
-      "date": "2026-9-6",
-      "authors": "Inês Tavares · Yi-Chi Chen · Kirsty Agnoli",
-      "url": "https://doi.org/10.1021/jacs.6c11512",
-      "doi": "10.1021/jacs.6c11512"
+      "date": "2026-9-9",
+      "authors": "Maximilian Müll · Pia Lanvers · Giulia Ravagnan",
+      "url": "https://doi.org/10.1002/anie.9880949",
+      "doi": "10.1002/anie.9880949"
     },
     {
-      "id": "crossref-2041-1723-12",
-      "journal": "Nature Communications",
-      "title": "Metabolic engineering and deep learning-driven protein engineering for N-Acetylneuraminic acid biosynthesis in Escherichia coli",
-      "abstract": "Publisher record available. Open the article page for the full abstract.",
+      "id": "crossref-1433-7851-41",
+      "journal": "Angewandte Chemie",
+      "title": "Nickel‐Catalyzed de novo Synthesis of C─N Atropisomeric Biaryls via Dual Chelation‐Assisted Aza‐Michael Addition",
+      "abstract": "ABSTRACT The asymmetric construction of C─N bonds using readily available C─H (arene) and N─H (amine) reagents constitutes a modular and flexible synthetic strategy. Nevertheless, de novo synthesis of axially chiral C─N scaffolds via direct C─H/N─H coupling remains a formidable challenge, and it has been previously restricted to organocatalysis using soft (more nucleophilic) NH indoles. Reported herein is a nickel‐catalyzed oxidative coupling strategy that leverages the oxygen‐ or nitrogen‐chelating group in the NH nucleophiles. The coupling system is applicable to three distinct classes of NH reagents, permitting asymmetric synthesis of diverse C─N atropisomers. Mechanistic studies reveal that the C─N formation is facilitated by a chelating group in the NH reagent through formation of a favored 5‐ and 7‐membered ring‐fused nickelacyclic transition state. This coupling system has addressed a series of challenges in intermolecular C─H/N─H cross‐coupling by overcoming limited applicability of NH nucleophiles and the reliance on prefunctionalized electrophiles such as aryl halides and hypervalent iodines.",
       "topic": "molecule",
       "topicLabel": "Molecular synthesis",
       "score": 75,
-      "date": "2026-9-5",
-      "authors": "Nan-Kai Wang · Song Yue · Jin-Ping Chen",
-      "url": "https://doi.org/10.1038/s41467-026-77406-2",
-      "doi": "10.1038/s41467-026-77406-2"
+      "date": "2026-9-10",
+      "authors": "Xiaohan Zhu · Yue Shi · Wei Wang",
+      "url": "https://doi.org/10.1002/anie.6717102",
+      "doi": "10.1002/anie.6717102"
     },
     {
-      "id": "crossref-0092-8674-13",
+      "id": "crossref-0092-8674-17",
       "journal": "Cell",
       "title": "Complete biosynthesis of the anticancer cephalotaxinone and homoerythratine",
       "abstract": "Publisher record available. Open the article page for the full abstract.",
@@ -135,14 +135,5 @@
       "doi": "10.1016/j.cell.2026.06.007"
     }
   ],
-  "preprints": [
-    {
-      "num": "01",
-      "title": "Expanding the Enzymatic Landscape for Polyurethane Degradation of Novel Bacterial Urethanases",
-      "meta": "bioRxiv · 2026-05-10",
-      "topic": "molecule",
-      "url": "https://doi.org/10.64898/2026.02.11.705263",
-      "doi": "10.64898/2026.02.11.705263"
-    }
-  ]
+  "preprints": []
 }
