@@ -1,24 +1,11 @@
 {
-  "generatedAt": "2026-09-14T01:28:33.560Z",
+  "generatedAt": "2026-09-21T06:24:08.909Z",
   "source": "Crossref + bioRxiv public APIs",
   "verified": true,
   "rejectedSources": [],
   "articles": [
     {
-      "id": "crossref-1433-7851-96",
-      "journal": "Angewandte Chemie",
-      "title": "Bifunctional Core–Shell Architecture of nFe 0 @CNT Enables Efficient Biocatalytic Reduction",
-      "abstract": "ABSTRACT Typical biotic‐abiotic hybrid systems utilize external energy (e.g., light or electricity) to boost biocatalytic reduction reactions. In this study, we propose a bifunctional core–shell architecture (graphitized carbon‐coated nano iron, nFe 0 @CNT) to improve biocatalytic reduction performance without relying on external energy to deliver electrons into the cells. The carbon shell increased the substrate utilization rate by 87%, along with an increased pool of the intracellular electron carrier nicotinamide adenine dinucleotide (NADH). Concurrently, the nano iron core enhanced the activities of NADH dehydrogenase and functional enzymes by 66.5% and 69.3%, respectively, increasing the capacity for NADH utilization. This simultaneous enhancement of substrate utilization and enzyme activities markedly promoted bio‐denitrification and biosynthesis. Life cycle assessment and economic analysis demonstrate that this strategy yields lower environmental impacts relative to conventional strategies for enhancing biocatalysis, with carbon emissions reduced by 50.0%–86.0% and costs decreased by 79.2%–89.2%. This work provides a new paradigm for enhancing biocatalytic reduction by functional materials without external energy input.",
-      "topic": "molecule",
-      "topicLabel": "Molecular synthesis",
-      "score": 84,
-      "date": "2026-9-8",
-      "authors": "Nuo Xu · Wang‐Xiao Jia · Jia‐Hui Du",
-      "url": "https://doi.org/10.1002/anie.9389619",
-      "doi": "10.1002/anie.9389619"
-    },
-    {
-      "id": "crossref-0305-1048-9",
+      "id": "crossref-0305-1048-17",
       "journal": "Nucleic Acids Research",
       "title": "Primer- and template-independent RNA polymerization by terminal nucleotidyltransferase TENT4B",
       "abstract": "Abstract RNA synthesis by eukaryotic polymerases requires existing polynucleotides to serve as templates or primers. Here, we describe primer- and template-free RNA generation by human terminal nucleotidyltransferase 4B (TENT4B) via de novo polymerization of free nucleotides. We observed that recombinant TENT4B (rTENT4B) consumes ATP to yield inorganic pyrophosphate in the absence of a primer or template, concurrent with the appearance of oligomeric poly-adenosine RNA products. Remarkably, 5′ labels on γ-phosphate-modified ATP or GTP are retained during polymerization in the presence of unlabeled nucleotide triphosphates (NTPs). These polymers are created at a similar efficiency irrespective of the inclusion of a primer, indicating robust RNA synthesis by rTENT4B from free NTPs. While canonical purine NTPs are favored, nucleotide diphosphates (NDPs) can also serve as substrates for rTENT4B-mediated de novo RNA polymerization. rTENT4B-mediated RNA synthesis using free adenosine nucleotides shows high processivity to generate 1000s-mers, whereas guanosine nucleotide polymerization is strongly and uniformly self-limited and yields a 3′-exonuclease-resistant oligonucleotide. Interrogation of other RNA polymerases reveals potential capacity for de novo polymerization using free ATP, albeit at significantly higher substrate concentrations and lower efficiency compared with rTENT4B. Our data provide definitive evidence of efficient template-free de novo RNA synthesis by a eukaryotic polymerase.",
@@ -31,7 +18,7 @@
       "doi": "10.1093/nar/gkag864"
     },
     {
-      "id": "crossref-0305-1048-75",
+      "id": "crossref-0305-1048-96",
       "journal": "Nucleic Acids Research",
       "title": "Discovery and biosynthesis of a novel diaminopropane-modified thymine in phage DNA",
       "abstract": "Abstract Bacteriophage genomes exhibit exceptional diversity in nucleotide modifications, which primarily function to counteract host defense systems. However, the diversity of phage DNA hypermodifications remains largely unexplored in post genome era. Here, we discovered a novel thymine hypermodification, α-1,3-diaminopropanylthymine (α-dapT), in the Acinetobacter baumannii phage SH-Ab 15599, and elucidated its biosynthetic pathway, featuring the phage-encoded key diamine DNA transferase (DADT, formerly αGPT-Pplase2). DADT utilizes the metabolite 1,3-diaminopropane, which is the major polyamine in the host to modify phage DNA. DADT exhibits broad in vitro substrate specificity but a strong in vivo preference for 1,3-diaminopropane. Structural and mutagenesis analyses revealed the molecular basis for substrate recognition and catalysis. The α-dapT modification occurs preferentially at TG dinucleotides and confers resistance to multiple host restriction enzymes. Furthermore, RNA-seq analysis showed that phage infection upregulates genes for 1,3-diaminopropane synthesis, and downregulates genes for 1,3-diaminoproprane consumption to supply the modification precursor. Given that 1,3-diaminopropane functions as a key regulator in mobility of A. baumannii, its metabolic reprograming may impair host biofilm formation.",
@@ -46,6 +33,19 @@
     {
       "id": "crossref-1552-4450-1",
       "journal": "Nature Chemical Biology",
+      "title": "Biosynthetic allene and alkyne formation by enzymatic prenyl demethylation",
+      "abstract": "Abstract Allenes and alkynes are versatile functional groups in chemical biology and drug discovery. However, how nature biosynthetically installs them in natural products, especially allenes, remains poorly understood. Here we uncovered that allenes and alkynes can be formed enzymatically through oxidative C( sp 2 )-demethylation of the common five-carbon prenyl group. Two fungal cytochrome P450 monooxygenases, PpnB and NseB, from the penipratynolene and sinuxylamide biosynthetic pathways, respectively, were shown to catalyze oxidative removal of a C( sp 2 )-methyl group in O -prenyl l -tyrosine to afford O -homoallenyl l -tyrosine and O -but-2-ynyl l -tyrosine, respectively. Combining density functional theory calculations and biochemical assays with isotopically labeled substrates, a mechanism involving selective C–C bond cleavage followed by product-determining hydrogen atom abstraction is presented. An additional P450 enzyme from the penipratynolene pathway, PpnD, acts as an oxidative isomerase that converts the four-carbon terminal allene into a terminal alkyne. This sophisticated enzymatic editing strategy to install allene and alkyne expands the catalytic repertoire of P450 enzymes.",
+      "topic": "molecule",
+      "topicLabel": "Molecular synthesis",
+      "score": 81,
+      "date": "2026-9-15",
+      "authors": "Mengting Liu · Masao Ohashi · Wenyu Han",
+      "url": "https://doi.org/10.1038/s41589-026-02323-w",
+      "doi": "10.1038/s41589-026-02323-w"
+    },
+    {
+      "id": "crossref-1552-4450-9",
+      "journal": "Nature Chemical Biology",
       "title": "Pyridoxal-phosphate-dependent biosynthesis of aminovaleramide by AvaS in tRNA",
       "abstract": "Publisher record available. Open the article page for the full abstract.",
       "topic": "molecule",
@@ -57,20 +57,46 @@
       "doi": "10.1038/s41589-026-02303-0"
     },
     {
-      "id": "crossref-1433-7851-67",
-      "journal": "Angewandte Chemie",
-      "title": "Discovery and Characterization of Conserved N‐Oxide‐Forming Function of FAD‐Dependent Monooxygenases for Fungal Prenylated Indole Alkaloid Biosynthesis",
-      "abstract": "ABSTRACT N‐oxides are ubiquitous functional groups in natural products, conferring critical biological properties such as enhanced solubility and modulated membrane permeability. However, the biosynthetic pathways for N‐oxide formation in complex prenylated indole alkaloids (PIAs), especially the penicimutamides, remain poorly understood. Here, we describe the discovery and biochemical characterization of new activities of FAD‐dependent monooxygenase (FMO) PldC, which sequentially catalyzes the indole 2,3‐epoxidation‐rearrangement of penicimutamide E, and the regioselective N13‐oxidation of penicimutamide D to produce penicimutamide D N‐oxide. Furthermore, conserved N‐oxide‐forming activity was confirmed as a new function with another two known FMOs of CtdE and PhqK involved in the biosynthesis of citrinadins and paraherquamides, respectively. These findings provide mechanistic insights into FMO function, revealing a remarkable catalytic plasticity whereby a single enzyme family drives dual oxidative pathways (C‐oxidation and N‐oxidation) to generate structurally diverse alkaloid metabolites. Collectively, our findings expand the catalytic landscape of FMOs, suggesting N‐oxide formation as a conserved functional trait across this enzyme family during fungal PIA biosynthesis. These results also shed new light on the evolutionary trajectories and catalytic design principles of FMOs in the assembly of complex natural products.",
+      "id": "crossref-2041-1723-58",
+      "journal": "Nature Communications",
+      "title": "Structural framework for the assembly of the human tRNA ligase complex",
+      "abstract": "Abstract In human cells, a subset of tRNA-encoding genes contain introns. These are removed by a spliceosome-independent pathway in which the tRNA splicing endonuclease complex catalyzes intron excision. The resulting exons are subsequently ligated by the tRNA-ligase complex (tRNA-LC), comprising Ashwin, CGI-99, FAM98B, DDX1, and RTCB/HSPC117. The molecular architecture and functions of its non-catalytic subunits remain poorly understood. Using cryo-EM, we determined an atomic-resolution structure of human tRNA-LC. CGI-99, DDX1, and FAM98B form an α-helical bundle that contacts RTCB opposite its active site and anchors DDX1 via its C-terminal helix. FAM98B and CGI-99 form an extensively co-folded heterodimer that clamps Ashwin in a pincer-like structure. Structure-based mutagenesis supports the architecture of the complex. We further show that FAM98A and FAM98C assemble distinct RTCB-containing complexes lacking Ashwin, suggesting specialized cellular functions. Our results provide insights into the molecular assembly of the tRNA ligase complex, highlighting its functions in tRNA biogenesis and beyond.",
+      "topic": "ligase",
+      "topicLabel": "RNA ligase",
+      "score": 78,
+      "date": "2026-9-17",
+      "authors": "Moritz M. Pfleiderer · Moritz Kleinwächter · Ajse S. Nievergelt",
+      "url": "https://doi.org/10.1038/s41467-026-77450-y",
+      "doi": "10.1038/s41467-026-77450-y"
+    },
+    {
+      "id": "crossref-2041-1723-73",
+      "journal": "Nature Communications",
+      "title": "Ashwin and FAM98 paralogs define nuclear and cytoplasmic RNA ligase complexes for tRNA biogenesis",
+      "abstract": "Abstract The tRNA ligase complex (tRNA-LC) seals tRNA exon halves in the nucleus during pre-tRNA splicing and XBP1 -mRNA exons in the cytoplasm as part of the unfolded protein response (UPR). This dual function requires the tRNA-LC to be either nuclear or cytoplasmic. Here, we reveal that Ashwin (ASW), the vertebrate-specific subunit of the tRNA-LC, serves as its nuclear import factor. ASW contains a dual nuclear localisation signal (NLS) which, upon disruption, leads to the retention of the tRNA-LC in the cytoplasm, impairing pre-tRNA splicing with the consequent accumulation of 5’ tRNA fragments. We also show that the tRNA-LC exists in three forms, depending on which FAM98 paralog is bound, either FAM98A, FAM98B or FAM98C. ASW interacts exclusively with the FAM98B-containing complex, ensuring its nuclear localization for tRNA biogenesis. Attaching an NLS to RTCB, the catalytic and indispensable tRNA-LC subunit, rescues pre-tRNA splicing in cells depleted of ASW. We hypothesize that vertebrates evolved ASW to localize a sub-population of tRNA-LC to the nucleus, while using FAM98 paralogs to retain a fraction of RTCB in the cytoplasm to splice XBP1 -mRNA during UPR.",
+      "topic": "ligase",
+      "topicLabel": "RNA ligase",
+      "score": 78,
+      "date": "2026-9-17",
+      "authors": "Moritz Kleinwächter · Marius Moser · Nathan Raynaud",
+      "url": "https://doi.org/10.1038/s41467-026-77451-x",
+      "doi": "10.1038/s41467-026-77451-x"
+    },
+    {
+      "id": "crossref-0002-7863-38",
+      "journal": "JACS",
+      "title": "Diastereo- and Enantioselective Photobiocatalytic α-Alkylation of α-Heteroaryl Amines Enabled by Pyridoxal Photochemistry",
+      "abstract": "Abstract We report a photobiocatalytic system for the enantio- and diastereoselective α-alkylation of α-heteroaryl amines, a largely underexplored class of synthetically valuable non-native amine donors. Evaluation and directed evolution of thermophilic threonine aldolases, enabled by high-throughput photobiocatalysis, furnished pyridoxal 5′-phosphate (PLP)-dependent enzymes capable of mediating radical C–C bond formation with high levels of stereocontrol. The resulting system enabled the synthesis of diverse chiral aliphatic amines bearing valuable nitrogen heterocycles, including pyridines, pyrimidines, pyrazines, thiazoles, imidazoles, benzothiazoles, and benzimidazoles. Notably, challenging stereochemical elements, such as α-tetrasubstituted stereogenic centers, contiguous trisubstituted stereocenters, and contiguous tri- and tetrasubstituted stereocenters, were readily accessible with our evolved radical C–C coupling enzyme, with excellent diastereo- and enantiocontrol. UV–visible spectroscopy revealed that directed evolution promoted the rapid formation and stabilization of a catalytically essential quinonoid intermediate from non-native amine donors, while mechanistic studies supported an unconventional PLP-enabled photochemical pathway for radical generation from Katritzky salts. Collectively, these results establish pyridoxal radical catalysis as a strategy for expanding chemical space beyond α-amino acids, highlighting its potential to access structurally complex chiral amines with excellent stereocontrol.",
       "topic": "molecule",
       "topicLabel": "Molecular synthesis",
       "score": 78,
-      "date": "2026-9-9",
-      "authors": "Tiandong Hu · Peiyuan Feng · Ting Lin",
-      "url": "https://doi.org/10.1002/anie.9391687",
-      "doi": "10.1002/anie.9391687"
+      "date": "2026-9-17",
+      "authors": "Cang-Xin Zheng · Binh Khanh Mai · Riley Y. Way",
+      "url": "https://doi.org/10.1021/jacs.6c08663",
+      "doi": "10.1021/jacs.6c08663"
     },
     {
-      "id": "crossref-1755-4330-16",
+      "id": "crossref-1755-4330-20",
       "journal": "Nature Chemistry",
       "title": "Nitrene generation and transfer for unnatural biosynthesis in living cells",
       "abstract": "Abstract Synthetic biology has enabled the production of natural and unnatural products from inexpensive sustainable feedstocks. Yet, the scope of available products has been limited largely to compounds accessible from nature’s chemical reactions. Evolved enzymes can catalyse reactions of unnatural substrates or reactions not found in nature but often require the addition of synthetic reagents to purified enzymes or to resting cells containing those enzymes. Here we show that chemical reactions of metabolic intermediates produced intracellularly in living cells can include intermolecular nitrene transfers. The biosynthesis of N -acetoxyanilines, in combination with the generation and transfer of N -aryl nitrene intermediates from them catalysed by a cytochrome P450, generates amino alcohols, diamines, diarylamines and aminoalkyl arenes from simple carbon feedstocks. These products—common substructures of pharmaceuticals and agrochemicals—are challenging to synthesize by standard organic chemistry and were produced from inexpensive, renewable feedstocks. Evolution of the enzymes in this pathway showed that titres can be increased by engineering and that the products can be synthesized with high enantioselectivity.",
@@ -83,7 +109,7 @@
       "doi": "10.1038/s41557-026-02224-4"
     },
     {
-      "id": "crossref-1552-4450-52",
+      "id": "crossref-1552-4450-60",
       "journal": "Nature Chemical Biology",
       "title": "Cephalotaxinone enzymes reveal a whole plant model for homoharringtonine biosynthesis",
       "abstract": "Publisher record available. Open the article page for the full abstract.",
@@ -96,43 +122,17 @@
       "doi": "10.1038/s41589-026-02260-8"
     },
     {
-      "id": "crossref-1433-7851-72",
-      "journal": "Angewandte Chemie",
-      "title": "Adenylation Domain Engineering Enables Biosynthesis of an Improved Polymyxin Antibiotic",
-      "abstract": "ABSTRACT Polymyxins are potent nonribosomal peptide antibiotics, yet their clinical use is limited by a narrow therapeutic window and nephro‐/neurotoxicity. Conventional efforts to improve these agents rely on the incorporation of nonnatural building blocks that cannot be accessed biosynthetically and therefore must be introduced by total synthesis. Here we report a biosynthetic route to a next‐generation polymyxin that circumvents this limitation. By engineering the substrate‐binding pocket of a nonribosomal adenylation (A‐)domain, we created a mutationally expanded pocket that selectively activates the fatty amino acid l ‐2‐aminodecanoic acid ( l ‐Ada). Incorporation of this engineered A‐domain into the native polymyxin biosynthesis enabled production of Ada‐polymyxin with high potential for lowered toxicity directly in Paenibacillus polymyxa fermentation. This work demonstrates that rational redesign of nonribosomal A‐domains can redirect natural product biosynthesis toward chemically diverse, therapeutically superior antibiotics, opening new avenues for combating drug‐resistant bacteria.",
+      "id": "crossref-0002-7863-5",
+      "journal": "JACS",
+      "title": "Structural Basis of Cyclized C17 Precursor Recognition and Product Formation in Chlororaphen and Grimophan Biosynthesis",
+      "abstract": "Abstract Terpene cyclases (TCs) typically transform acyclic oligoprenyl pyrophosphates through carbocationic cyclization cascades. However, recently discovered bacterial pathways generate compact, cyclized and stereochemically defined noncanonical intermediates through methyltransferases prior to TC catalysis, raising the question of how these unusual substrates are recognized and converted. Here, we report high-resolution crystal structures of two bacterial C17 class I TCs, Pc-ChloS and Vb-GriS, including a complex with a substrate surrogate that defines recognition of the cyclized precursor α-prechlororaphen pyrophosphate (α-PCPP). Combined with mutagenesis and isotope-labeling experiments, these structures provide a molecular framework for chlororaphen and grimophan biosynthesis. Despite highly similar active-site architectures, reciprocal mutagenesis identifies a single Thr/Leu exchange at position 89 as a major determinant of product partitioning. Together with comparisons to other class I TCs, these findings reveal how a conserved scaffold accommodates cyclized terpene precursors, while subtle active-site changes redirect complex carbocation cascades and product formation.",
       "topic": "molecule",
       "topicLabel": "Molecular synthesis",
       "score": 75,
-      "date": "2026-9-9",
-      "authors": "Maximilian Müll · Pia Lanvers · Giulia Ravagnan",
-      "url": "https://doi.org/10.1002/anie.9880949",
-      "doi": "10.1002/anie.9880949"
-    },
-    {
-      "id": "crossref-1433-7851-41",
-      "journal": "Angewandte Chemie",
-      "title": "Nickel‐Catalyzed de novo Synthesis of C─N Atropisomeric Biaryls via Dual Chelation‐Assisted Aza‐Michael Addition",
-      "abstract": "ABSTRACT The asymmetric construction of C─N bonds using readily available C─H (arene) and N─H (amine) reagents constitutes a modular and flexible synthetic strategy. Nevertheless, de novo synthesis of axially chiral C─N scaffolds via direct C─H/N─H coupling remains a formidable challenge, and it has been previously restricted to organocatalysis using soft (more nucleophilic) NH indoles. Reported herein is a nickel‐catalyzed oxidative coupling strategy that leverages the oxygen‐ or nitrogen‐chelating group in the NH nucleophiles. The coupling system is applicable to three distinct classes of NH reagents, permitting asymmetric synthesis of diverse C─N atropisomers. Mechanistic studies reveal that the C─N formation is facilitated by a chelating group in the NH reagent through formation of a favored 5‐ and 7‐membered ring‐fused nickelacyclic transition state. This coupling system has addressed a series of challenges in intermolecular C─H/N─H cross‐coupling by overcoming limited applicability of NH nucleophiles and the reliance on prefunctionalized electrophiles such as aryl halides and hypervalent iodines.",
-      "topic": "molecule",
-      "topicLabel": "Molecular synthesis",
-      "score": 75,
-      "date": "2026-9-10",
-      "authors": "Xiaohan Zhu · Yue Shi · Wei Wang",
-      "url": "https://doi.org/10.1002/anie.6717102",
-      "doi": "10.1002/anie.6717102"
-    },
-    {
-      "id": "crossref-0092-8674-17",
-      "journal": "Cell",
-      "title": "Complete biosynthesis of the anticancer cephalotaxinone and homoerythratine",
-      "abstract": "Publisher record available. Open the article page for the full abstract.",
-      "topic": "molecule",
-      "topicLabel": "Molecular synthesis",
-      "score": 75,
-      "date": "2026-9",
-      "authors": "Runze Tian · Feifan Lin · Nianxin Guo",
-      "url": "https://doi.org/10.1016/j.cell.2026.06.007",
-      "doi": "10.1016/j.cell.2026.06.007"
+      "date": "2026-9-19",
+      "authors": "Kexin Yang · Michael Groll · Jeroen S. Dickschat",
+      "url": "https://doi.org/10.1021/jacs.6c17074",
+      "doi": "10.1021/jacs.6c17074"
     }
   ],
   "preprints": []
