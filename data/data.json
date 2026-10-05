@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-09-28T06:57:37.705Z",
+  "generatedAt": "2026-10-05T07:05:37.505Z",
   "source": "Crossref + bioRxiv public APIs",
   "verified": true,
   "rejectedSources": [],
   "articles": [
     {
-      "id": "crossref-0305-1048-35",
+      "id": "crossref-0305-1048-47",
       "journal": "Nucleic Acids Research",
       "title": "Primer- and template-independent RNA polymerization by terminal nucleotidyltransferase TENT4B",
       "abstract": "Abstract RNA synthesis by eukaryotic polymerases requires existing polynucleotides to serve as templates or primers. Here, we describe primer- and template-free RNA generation by human terminal nucleotidyltransferase 4B (TENT4B) via de novo polymerization of free nucleotides. We observed that recombinant TENT4B (rTENT4B) consumes ATP to yield inorganic pyrophosphate in the absence of a primer or template, concurrent with the appearance of oligomeric poly-adenosine RNA products. Remarkably, 5′ labels on γ-phosphate-modified ATP or GTP are retained during polymerization in the presence of unlabeled nucleotide triphosphates (NTPs). These polymers are created at a similar efficiency irrespective of the inclusion of a primer, indicating robust RNA synthesis by rTENT4B from free NTPs. While canonical purine NTPs are favored, nucleotide diphosphates (NDPs) can also serve as substrates for rTENT4B-mediated de novo RNA polymerization. rTENT4B-mediated RNA synthesis using free adenosine nucleotides shows high processivity to generate 1000s-mers, whereas guanosine nucleotide polymerization is strongly and uniformly self-limited and yields a 3′-exonuclease-resistant oligonucleotide. Interrogation of other RNA polymerases reveals potential capacity for de novo polymerization using free ATP, albeit at significantly higher substrate concentrations and lower efficiency compared with rTENT4B. Our data provide definitive evidence of efficient template-free de novo RNA synthesis by a eukaryotic polymerase.",
@@ -18,7 +18,33 @@
       "doi": "10.1093/nar/gkag864"
     },
     {
-      "id": "crossref-1552-4450-4",
+      "id": "crossref-1433-7851-65",
+      "journal": "Angewandte Chemie",
+      "title": "Combinatorial Biosynthesis of Antithrombotic Flavonoid 6‐ O ‐Glycosides From Carthamus tinctorius",
+      "abstract": "ABSTRACT Flavonoid 6‐ O ‐glycosides from Carthamus tinctorius (safflower) represent a unique class of potential antithrombotic agents. However, their pharmaceutical development has been hindered by limited natural resources. In this study, we characterized four key biosynthetic enzymes from C. tinctorius : Ct6OGT (6‐ O ‐glycosyltransferase), Ct7OGT (7‐ O ‐glycosyltransferase), Ct3OGT (3‐ O ‐glycosyltransferase), and CtFLS (flavonol synthase). Among them, Ct6OGT is the first identified high‐regioselectivity flavonoid 6‐ O ‐glycosyltransferase. By combining these enzymes with upstream genes identified from safflower, we established an in vitro enzymatic approach for the synthesis of 6‐hydroxykaempferol 3,6,7‐tri‐ O ‐glycosides. Notably, enzymatic assays demonstrated that the 3,6,7‐ O ‐triglycosides were synthesized via a sequential linear glycosylation pathway, in the order of 6‐ O ‐, 7‐ O ‐, and finally 3‐ O ‐glycosylation. Through combinatorial biosynthesis, we further produced 26 flavonoid 6‐ O ‐glycosides, including naturally occurring compounds from C. tinctorius and novel analogs. Subsequent evaluation in a zebrafish model revealed these flavonoid 6‐ O ‐glycosides exhibited antithrombotic activities, with 6‐hydroxylation and 6‐ O ‐glycosylation remarkably enhancing the potency. This work represents the first report of an enzymatic synthetic method for flavonoid 6‐ O ‐glycosides, and provides a valuable foundation for their future drug development.",
+      "topic": "molecule",
+      "topicLabel": "Molecular synthesis",
+      "score": 81,
+      "date": "2026-9-30",
+      "authors": "Zi‐Long Wang · Guo Ye · Meng Zhang",
+      "url": "https://doi.org/10.1002/anie.8881851",
+      "doi": "10.1002/anie.8881851"
+    },
+    {
+      "id": "crossref-1433-7851-92",
+      "journal": "Angewandte Chemie",
+      "title": "Unveiling the Complete Biosynthetic Pathway of Azacitidine: A Rare 1,3,5‐Triazine Nucleoside Derived From GTP",
+      "abstract": "ABSTRACT Azacitidine is a rare triazine‐containing nucleoside and a clinically used DNA methyltransferase inhibitor for the treatment of myelodysplastic syndromes. Despite its medical importance, its biosynthetic pathway has remained elusive. Herein, we identified the azacitidine biosynthetic gene cluster ( aza BGC) from Streptomyces mobaraensis IPIO2 using a resistance gene‐guided comparative genomics strategy and elucidated its biosynthetic pathway via in vivo and in vitro studies. Unexpectedly, the bifunctional GTP cyclohydrolase I AzaE generates the triaminopyrimidine intermediate as the major product and H2NTP as a shunt product from GTP, diverging from canonical GCHI enzymes. The cofactor‐independent cupin dioxygenase AzaA then assembles the 1,3,5‐triazine scaffold using both O 2 and H 2 O as oxygen donors, a mechanism unprecedented in nucleoside antibiotic biosynthesis. Subsequent decarboxylation by AzaB/AzaC, phosphoribosyl transfer by AzaD, and dephosphorylation by AzaG together with other endogenous hydrolases yield azacitidine. This work uncovers a distinct biosynthetic logic for triazine‐containing nucleosides and provides a molecular basis for the synthetic biology‐driven production of azacitidine.",
+      "topic": "molecule",
+      "topicLabel": "Molecular synthesis",
+      "score": 81,
+      "date": "2026-9-29",
+      "authors": "Dan Wang · Qingxu Meng · Lingqi Hua",
+      "url": "https://doi.org/10.1002/anie.1881662",
+      "doi": "10.1002/anie.1881662"
+    },
+    {
+      "id": "crossref-1552-4450-9",
       "journal": "Nature Chemical Biology",
       "title": "Biosynthetic allene and alkyne formation by enzymatic prenyl demethylation",
       "abstract": "Abstract Allenes and alkynes are versatile functional groups in chemical biology and drug discovery. However, how nature biosynthetically installs them in natural products, especially allenes, remains poorly understood. Here we uncovered that allenes and alkynes can be formed enzymatically through oxidative C( sp 2 )-demethylation of the common five-carbon prenyl group. Two fungal cytochrome P450 monooxygenases, PpnB and NseB, from the penipratynolene and sinuxylamide biosynthetic pathways, respectively, were shown to catalyze oxidative removal of a C( sp 2 )-methyl group in O -prenyl l -tyrosine to afford O -homoallenyl l -tyrosine and O -but-2-ynyl l -tyrosine, respectively. Combining density functional theory calculations and biochemical assays with isotopically labeled substrates, a mechanism involving selective C–C bond cleavage followed by product-determining hydrogen atom abstraction is presented. An additional P450 enzyme from the penipratynolene pathway, PpnD, acts as an oxidative isomerase that converts the four-carbon terminal allene into a terminal alkyne. This sophisticated enzymatic editing strategy to install allene and alkyne expands the catalytic repertoire of P450 enzymes.",
@@ -31,7 +57,20 @@
       "doi": "10.1038/s41589-026-02323-w"
     },
     {
-      "id": "crossref-1552-4450-12",
+      "id": "crossref-2375-2548-27",
+      "journal": "Science Advances",
+      "title": "Functional diversification of CsCAD14 orchestrates synergistic phenylpropanoid biosynthesis to defend gray blight disease in tea plants",
+      "abstract": "Phenylpropanoid metabolism is a crucial secondary metabolic pathway in plants. Numerous neofunctionalized and specialized enzymes emerged during plant terrestrialization, yielding metabolites contributing to environmental adaptation. Here, a cinnamyl alcohol dehydrogenase from tea plant ( Camellia sinensis ), CsCAD14, exhibited dual activity catalyzing monolignol and hydroxycinnamic acid biosynthesis. Antifungal assays showed that monolignols and hydroxycinnamic acids synergistically inhibited Pestalotiopsis growth. Integrated functional characterizations revealed that CsCAD14 enhanced gray blight disease resistance by increasing monolignol and hydroxycinnamic acid levels compared to CsCAD11 featured with single-enzymatic activity. Notably, genetic analysis of F 1 progeny from crossing susceptible and resistant tea cultivars identified a nonsynonymous mutation in the CsCAD14 coding region, which abolished dual-enzymatic activity and was associated with pathogen susceptibility. Furthermore, evolutionary analysis revealed a positively selected amino acid substitution (L192V) driving CAD functional diversification from single-enzymatic activity in algae to dual-enzymatic activity in land plants. These findings uncover neofunctionalization of dual-activity CADs evolved for phenylpropanoid defense to enhance fungal disease resistance during plant adaptation to terrestrial environments.",
+      "topic": "molecule",
+      "topicLabel": "Molecular synthesis",
+      "score": 81,
+      "date": "2026-10-2",
+      "authors": "Linlin Xu · Songyan Huang · Jie Deng",
+      "url": "https://doi.org/10.1126/sciadv.aei1647",
+      "doi": "10.1126/sciadv.aei1647"
+    },
+    {
+      "id": "crossref-1552-4450-17",
       "journal": "Nature Chemical Biology",
       "title": "Pyridoxal-phosphate-dependent biosynthesis of aminovaleramide by AvaS in tRNA",
       "abstract": "Publisher record available. Open the article page for the full abstract.",
@@ -44,33 +83,7 @@
       "doi": "10.1038/s41589-026-02303-0"
     },
     {
-      "id": "crossref-0002-7863-71",
-      "journal": "JACS",
-      "title": "Biocatalytic Redox Cascade Enabled Site-Selective Direct β-Alkylation of Cyclopentanones",
-      "abstract": "Abstract Alkylation of carbonyl compounds is among the most widely practiced transformations in organic synthesis. While extensive methods exist for functionalization at the ipso and α-positions, direct β-alkylation remains a significant challenge, especially for cyclic ketones. Furthermore, catalyst-controlled site selectivity in the β-alkylation of α-aryl- or alkyl-substituted cyclic ketones is rarely achieved using existing methods. Herein, we report a highly site-selective direct β-C(sp3)–H alkylation of α-nonacyl-substituted cyclopentanones via photobiocatalysis. Through mechanism-driven enzyme repurposing, a single flavin-dependent ‘ene’-reductase (ERED) orchestrates two mechanistically distinct transformations, desaturation and Giese-type radical addition, in one redox cascade. Precise enzyme control over site selectivity in the desaturation step ensures site-specific installation of diverse alkyl groups at the β-position adjacent to the α-substituent, providing trans-α,β-disubstituted cyclopentanones with excellent diastereoselectivity. A site-divergent alkylation is also achieved through synergistic tuning of enzyme catalyst and light activation, underscoring the catalytic versatility of EREDs and their potential in streamlining complex molecule synthesis.",
-      "topic": "molecule",
-      "topicLabel": "Molecular synthesis",
-      "score": 78,
-      "date": "2026-9-23",
-      "authors": "Rupeng Dai · Hui Wang · Jincheng Lei",
-      "url": "https://doi.org/10.1021/jacs.6c16346",
-      "doi": "10.1021/jacs.6c16346"
-    },
-    {
-      "id": "crossref-1433-7851-71",
-      "journal": "Angewandte Chemie",
-      "title": "Complete Pathway Refactoring and Combinatorial Biosynthesis of Anthracyclines for Modulation of Histone Eviction and DNA Damage Bioactivities",
-      "abstract": "ABSTRACT Anthracyclines including doxorubicin are cornerstone chemotherapeutic agents with high cytotoxic potency, but their use in cancer treatment is limited by irreversible dose‐dependent cardiotoxicity. Recent investigations indicate that cardiotoxicity‐free anthracyclines may be achieved through uncoupling DNA damage from chromatin damage. However, semi‐synthetic derivatization is complicated by anthracycline structural complexity. Here, we report a modular synthetic biology platform for the complete refactoring and combinatorial biosynthesis of anthracyclines in Streptomyces coelicolor M1152Δ matAB . Using standardized synthetic DNA parts, we refactored three full biosynthetic pathways of nogalamycin (38 genes), doxorubicin (31 genes), and aclacinomycin (31 genes). The pathways were organized into four functional modules (aglycone biosynthesis, TDP‐carbohydrate formation, glycosylation, and tailoring reactions) to facilitate efficient reconstruction. The modular design facilitated streamlined combinatorial biosynthesis yielding 16 derivatives, including 13 novel analogs. Bioactivity profiling across human cancer cell lines identified six potent congeners. Their cytotoxicity correlated with in vitro DNA binding affinities. Two hit molecules harbored desired bioactivity profiles promoting histone eviction at a faster rate than doxorubicin, without causing DNA double strand breaks. Our approach highlights the power of synthetic biology in rational natural product engineering and provides a scalable strategy for exploring new and improved anthracycline anti‐cancer agents.",
-      "topic": "molecule",
-      "topicLabel": "Molecular synthesis",
-      "score": 78,
-      "date": "2026-9-23",
-      "authors": "Rongbin Wang · Heli Tirkkonen · Sabina Y. van der Zanden",
-      "url": "https://doi.org/10.1002/anie.1050964",
-      "doi": "10.1002/anie.1050964"
-    },
-    {
-      "id": "crossref-1755-4330-31",
+      "id": "crossref-1755-4330-37",
       "journal": "Nature Chemistry",
       "title": "Nitrene generation and transfer for unnatural biosynthesis in living cells",
       "abstract": "Abstract Synthetic biology has enabled the production of natural and unnatural products from inexpensive sustainable feedstocks. Yet, the scope of available products has been limited largely to compounds accessible from nature’s chemical reactions. Evolved enzymes can catalyse reactions of unnatural substrates or reactions not found in nature but often require the addition of synthetic reagents to purified enzymes or to resting cells containing those enzymes. Here we show that chemical reactions of metabolic intermediates produced intracellularly in living cells can include intermolecular nitrene transfers. The biosynthesis of N -acetoxyanilines, in combination with the generation and transfer of N -aryl nitrene intermediates from them catalysed by a cytochrome P450, generates amino alcohols, diamines, diarylamines and aminoalkyl arenes from simple carbon feedstocks. These products—common substructures of pharmaceuticals and agrochemicals—are challenging to synthesize by standard organic chemistry and were produced from inexpensive, renewable feedstocks. Evolution of the enzymes in this pathway showed that titres can be increased by engineering and that the products can be synthesized with high enantioselectivity.",
@@ -83,7 +96,7 @@
       "doi": "10.1038/s41557-026-02224-4"
     },
     {
-      "id": "crossref-1552-4450-63",
+      "id": "crossref-1552-4450-68",
       "journal": "Nature Chemical Biology",
       "title": "Cephalotaxinone enzymes reveal a whole plant model for homoharringtonine biosynthesis",
       "abstract": "Publisher record available. Open the article page for the full abstract.",
@@ -96,20 +109,20 @@
       "doi": "10.1038/s41589-026-02260-8"
     },
     {
-      "id": "crossref-0028-0836-39",
-      "journal": "Nature",
-      "title": "Chiral oxazolidinones via biocatalytic aziridination of unactivated alkenes",
-      "abstract": "Publisher record available. Open the article page for the full abstract.",
+      "id": "crossref-0002-7863-13",
+      "journal": "JACS",
+      "title": "Widespread Biosynthesis of Thiohistidine Dipeptides in Bacteria",
+      "abstract": "Abstract Natural products have been paramount in inspiring novel chemistry as well as providing therapeutic agents and chemical tools for biological applications. A recently emerging class of natural products, the thio/seleno-imidazoles (TSIs), contains C–S or C–Se bonds that are installed by nonheme iron sulfoxide and selenoxide synthases (NHISSs). These TSIs, which include ergothioneine, are ubiquitous, but little is known about the broader TSI chemical space or co-occurrence with other biosynthetic enzymes. Here, we use NHISSs as a bioinformatic hook to identify a widespread family of biosynthetic gene clusters that encode a combination of NHISS and ATP-grasp enzymes. This search strategy enabled the discovery of two 2-thiohistidine-containing dipeptide natural products, one of which we isolated from the original microbial host. Structural and biochemical analyses of the corresponding biosynthetic enzymes revealed a novel NHISS active site architecture and an ATP-grasp enzyme with unprecedented substrate selectivity for 2-thiohistidine. Together, these results expand the known enzymology and distribution of TSIs and establish 2-thiohistidine as a biosynthetically encoded building block, enabling future discovery and functional investigation into this new natural product family.",
       "topic": "molecule",
       "topicLabel": "Molecular synthesis",
-      "score": 75,
-      "date": "2026-9-23",
-      "authors": "Zi-Qi Li · Deirdre Hanley · Yu Zhang",
-      "url": "https://doi.org/10.1038/s41586-026-11169-0",
-      "doi": "10.1038/s41586-026-11169-0"
+      "score": 78,
+      "date": "2026-10-2",
+      "authors": "Marissa L. Abbott · Jacob T. Leeman · Chase M. Kayrouz",
+      "url": "https://doi.org/10.1021/jacs.6c03714",
+      "doi": "10.1021/jacs.6c03714"
     },
     {
-      "id": "crossref-1755-4330-10",
+      "id": "crossref-1755-4330-15",
       "journal": "Nature Chemistry",
       "title": "De novo synthesis of threofuranoses via a triple-carbonylation cascade of aldehydes",
       "abstract": "Publisher record available. Open the article page for the full abstract.",
@@ -120,29 +133,16 @@
       "authors": "Xiaotong Shen · Ruifang Nie · Wenjun Jiang",
       "url": "https://doi.org/10.1038/s41557-026-02258-8",
       "doi": "10.1038/s41557-026-02258-8"
-    },
-    {
-      "id": "crossref-1545-7885-6",
-      "journal": "Nature Structural & Molecular Biology",
-      "title": "MucD regulates alginate biosynthesis through the proteolytic control of AlgX and AlgK in Pseudomonas aeruginosa",
-      "abstract": "Pseudomonas aeruginosa is an opportunistic human pathogen capable of infecting a wide range of tissues and organs. Its persistence during chronic infection is strongly associated with biofilm formation, which depends on extracellular polysaccharides such as alginate. The HtrA-like periplasmic serine protease MucD is a key regulator of bacterial virulence, stress response, and alginate production, yet its molecular mechanism has remained largely unclear. Here, we discovered the alginate acetylation and export proteins AlgX and AlgK as MucD substrates, and characterized their degradation by mass spectrometry and bioinformatic analysis. We further determined the cryo-EM structure of MucD bound to an AlgK-derived substrate peptide, offering atomic insights into MucD oligomerization assembly, substrate recognition, and specificity. Together with structure-guided mutagenesis and biochemical assays, our results revealed that MucD proteolytic activity is governed by an equilibrium between a resting 12-mer and an active trimer. Crucially, we demonstrate that MucD represses alginate biosynthesis post-translationally, in addition to its previously implicated role in transcriptional regulation. These findings define a distinct activation mechanism and regulatory function for MucD and provide new insight into bacterial HtrA-like serine proteases.",
-      "topic": "molecule",
-      "topicLabel": "Molecular synthesis",
-      "score": 75,
-      "date": "2026-9-21",
-      "authors": "Yujun Jiang · Xin-Fu Yan · Rya Ero",
-      "url": "https://doi.org/10.1371/journal.pbio.3003985",
-      "doi": "10.1371/journal.pbio.3003985"
     }
   ],
   "preprints": [
     {
       "num": "01",
-      "title": "Tryptophan became part of the universal genetic code post-LUCA",
-      "meta": "bioRxiv · 2026-05-31",
+      "title": "CascadeMAP: Autonomous Closed-loop Optimization of Enzyme Cascades via Microfluidics, Machine Learning and Agentic AI",
+      "meta": "bioRxiv · 2026-06-07",
       "topic": "molecule",
-      "url": "https://doi.org/10.64898/2026.05.28.728509",
-      "doi": "10.64898/2026.05.28.728509"
+      "url": "https://doi.org/10.64898/2026.06.04.730034",
+      "doi": "10.64898/2026.06.04.730034"
     }
   ]
 }
