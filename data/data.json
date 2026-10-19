@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-12T07:23:57.285Z",
+  "generatedAt": "2026-10-19T06:14:47.405Z",
   "source": "Crossref + bioRxiv public APIs",
   "verified": true,
   "rejectedSources": [],
   "articles": [
     {
-      "id": "crossref-0305-1048-74",
+      "id": "crossref-0305-1048-98",
       "journal": "Nucleic Acids Research",
       "title": "Primer- and template-independent RNA polymerization by terminal nucleotidyltransferase TENT4B",
       "abstract": "Abstract RNA synthesis by eukaryotic polymerases requires existing polynucleotides to serve as templates or primers. Here, we describe primer- and template-free RNA generation by human terminal nucleotidyltransferase 4B (TENT4B) via de novo polymerization of free nucleotides. We observed that recombinant TENT4B (rTENT4B) consumes ATP to yield inorganic pyrophosphate in the absence of a primer or template, concurrent with the appearance of oligomeric poly-adenosine RNA products. Remarkably, 5′ labels on γ-phosphate-modified ATP or GTP are retained during polymerization in the presence of unlabeled nucleotide triphosphates (NTPs). These polymers are created at a similar efficiency irrespective of the inclusion of a primer, indicating robust RNA synthesis by rTENT4B from free NTPs. While canonical purine NTPs are favored, nucleotide diphosphates (NDPs) can also serve as substrates for rTENT4B-mediated de novo RNA polymerization. rTENT4B-mediated RNA synthesis using free adenosine nucleotides shows high processivity to generate 1000s-mers, whereas guanosine nucleotide polymerization is strongly and uniformly self-limited and yields a 3′-exonuclease-resistant oligonucleotide. Interrogation of other RNA polymerases reveals potential capacity for de novo polymerization using free ATP, albeit at significantly higher substrate concentrations and lower efficiency compared with rTENT4B. Our data provide definitive evidence of efficient template-free de novo RNA synthesis by a eukaryotic polymerase.",
@@ -18,7 +18,20 @@
       "doi": "10.1093/nar/gkag864"
     },
     {
-      "id": "crossref-1552-4450-16",
+      "id": "crossref-0305-1048-15",
+      "journal": "Nucleic Acids Research",
+      "title": "Substrate energetics in non-templated DNA synthesis by terminal deoxynucleotidyl transferase",
+      "abstract": "Abstract DNA polymerases typically use deoxyribonucleoside triphosphates (dNTPs) for DNA synthesis, yet the contribution of the γ-phosphate to catalysis remains unclear. Here, we examine the role of substrate energetics in enzyme-catalyzed polymerization using a fidelity-independent model polymerase, terminal deoxynucleotidyl transferase (TdT). Relative to dNTPs, we find that TdT utilizes the canonical deoxyribonucleoside diphosphates (dNDPs) with reduced rates and catalytic efficiencies, but diminished substrate bias. This lower specificity indicates that the γ-phosphate contributes primarily to nucleotide discrimination, rather than phosphodiester bond formation. Furthermore, our work shows that dNDPs and dNTPs with the same nucleobase exhibit comparable activation energies for the rate-limiting step during DNA synthesis, supporting a model in which the γ-phosphate is not required for lowering the energetic barrier for TdT-catalyzed polymerization. These findings define a mechanistic framework for understanding non-templated DNA synthesis and its application in enzymatic DNA synthesis technologies.",
+      "topic": "rna",
+      "topicLabel": "RNA / DNA",
+      "score": 84,
+      "date": "2026-10-13",
+      "authors": "Katrina Mogannam · Andrej Lupták",
+      "url": "https://doi.org/10.1093/nar/gkag980",
+      "doi": "10.1093/nar/gkag980"
+    },
+    {
+      "id": "crossref-1552-4450-24",
       "journal": "Nature Chemical Biology",
       "title": "Biosynthetic allene and alkyne formation by enzymatic prenyl demethylation",
       "abstract": "Abstract Allenes and alkynes are versatile functional groups in chemical biology and drug discovery. However, how nature biosynthetically installs them in natural products, especially allenes, remains poorly understood. Here we uncovered that allenes and alkynes can be formed enzymatically through oxidative C( sp 2 )-demethylation of the common five-carbon prenyl group. Two fungal cytochrome P450 monooxygenases, PpnB and NseB, from the penipratynolene and sinuxylamide biosynthetic pathways, respectively, were shown to catalyze oxidative removal of a C( sp 2 )-methyl group in O -prenyl l -tyrosine to afford O -homoallenyl l -tyrosine and O -but-2-ynyl l -tyrosine, respectively. Combining density functional theory calculations and biochemical assays with isotopically labeled substrates, a mechanism involving selective C–C bond cleavage followed by product-determining hydrogen atom abstraction is presented. An additional P450 enzyme from the penipratynolene pathway, PpnD, acts as an oxidative isomerase that converts the four-carbon terminal allene into a terminal alkyne. This sophisticated enzymatic editing strategy to install allene and alkyne expands the catalytic repertoire of P450 enzymes.",
@@ -31,20 +44,7 @@
       "doi": "10.1038/s41589-026-02323-w"
     },
     {
-      "id": "crossref-0002-7863-21",
-      "journal": "JACS",
-      "title": "A Substrate-Permissive Vanadium Haloperoxidase in Type II Polyketide Biosynthesis Unlocks Non-Native Halogenation across Diverse Substrate Scaffolds",
-      "abstract": "Abstract Halogenated compounds are prevalent in natural and synthetic molecules, profoundly affecting molecular stability, physicochemical properties, and biological activity. While enzymatic halogenation offers a sustainable and selective synthetic route, its broad application is limited by the narrow substrate scope of the known halogenases. Here, we identify and characterize a new secreted vanadium-dependent haloperoxidase (VHPO), XhnO11, from Streptomyces xinghaiensis S187, which catalyzes a critical chlorination step in the biosynthesis of the potent anticancer agent xinghaicarcin A. Through X-ray crystallography, molecular docking, and mutagenesis, we uncovered distinct mechanism features underlying bromination and revealed an unusually spacious active site in XhnO11. These structural characteristics enable remarkable substrate promiscuity, accommodating a diverse range of aromatic scaffolds, including anthracyclines, xanthones, flavonoids, and nitroaromatics. Furthermore, XhnO11 efficiently mediates mono-, di-, and multibromination of tyrosine, tyrosine-containing peptides, and tryptophan-derived substrates. Collectively, these findings expand the functional scope of VHPOs and establish XhnO11 as a versatile and broadly tolerant biocatalyst, facilitating mining of new halogenated natural products and providing a powerful tool for the selective functionalization of diverse bioactive molecules.",
-      "topic": "molecule",
-      "topicLabel": "Molecular synthesis",
-      "score": 81,
-      "date": "2026-10-9",
-      "authors": "Shi-Qi Fang · Dian Ding · Qiu-Yue Nie",
-      "url": "https://doi.org/10.1021/jacs.6c16767",
-      "doi": "10.1021/jacs.6c16767"
-    },
-    {
-      "id": "crossref-1552-4450-24",
+      "id": "crossref-1552-4450-32",
       "journal": "Nature Chemical Biology",
       "title": "Pyridoxal-phosphate-dependent biosynthesis of aminovaleramide by AvaS in tRNA",
       "abstract": "Publisher record available. Open the article page for the full abstract.",
@@ -57,7 +57,7 @@
       "doi": "10.1038/s41589-026-02303-0"
     },
     {
-      "id": "crossref-1755-4330-45",
+      "id": "crossref-1755-4330-47",
       "journal": "Nature Chemistry",
       "title": "Nitrene generation and transfer for unnatural biosynthesis in living cells",
       "abstract": "Abstract Synthetic biology has enabled the production of natural and unnatural products from inexpensive sustainable feedstocks. Yet, the scope of available products has been limited largely to compounds accessible from nature’s chemical reactions. Evolved enzymes can catalyse reactions of unnatural substrates or reactions not found in nature but often require the addition of synthetic reagents to purified enzymes or to resting cells containing those enzymes. Here we show that chemical reactions of metabolic intermediates produced intracellularly in living cells can include intermolecular nitrene transfers. The biosynthesis of N -acetoxyanilines, in combination with the generation and transfer of N -aryl nitrene intermediates from them catalysed by a cytochrome P450, generates amino alcohols, diamines, diarylamines and aminoalkyl arenes from simple carbon feedstocks. These products—common substructures of pharmaceuticals and agrochemicals—are challenging to synthesize by standard organic chemistry and were produced from inexpensive, renewable feedstocks. Evolution of the enzymes in this pathway showed that titres can be increased by engineering and that the products can be synthesized with high enantioselectivity.",
@@ -70,7 +70,7 @@
       "doi": "10.1038/s41557-026-02224-4"
     },
     {
-      "id": "crossref-1552-4450-75",
+      "id": "crossref-1552-4450-83",
       "journal": "Nature Chemical Biology",
       "title": "Cephalotaxinone enzymes reveal a whole plant model for homoharringtonine biosynthesis",
       "abstract": "Publisher record available. Open the article page for the full abstract.",
@@ -83,20 +83,46 @@
       "doi": "10.1038/s41589-026-02260-8"
     },
     {
-      "id": "crossref-0002-7863-62",
-      "journal": "JACS",
-      "title": "Cryptic Methylation Enables Amino-Maleimide Formation in Ligiamycin Biosynthesis",
-      "abstract": "Abstract Maleimide is a rare but powerful pharmacophore in natural products, yet its biosynthetic logic remains poorly understood. Here, we elucidate the biosynthesis of ligiamycins, bacterial decalin–amino-maleimide metabolites from Streptomyces sp. NA07271. Genetic and biochemical studies revealed an unusual dispersed PKS–NRPS pathway, in which LigO1 hydroxylates a PCP-tethered precursor, followed by LigQ-mediated Dieckmann cyclization and LigN-catalyzed Diels–Alder cyclization to construct the tetramate-containing trans-decalin scaffold. Unexpectedly, LigM catalyzes a cryptic C-2 O-methylation that is not retained in the isolated products, but instead primes the scaffold for LigO2-mediated oxidation to a highly electrophilic methoxy-maleimide species. This reactive intermediate is readily intercepted by amine nucleophiles through nonenzymatic addition–elimination, giving rise to diverse amino-maleimide congeners. These findings reveal transient methylation as a biosynthetic activation strategy, redefine the chemical end point of ligiamycin biosynthesis, and establish methoxy-maleimide as a promising reactive functional group for natural product diversification and bioconjugation.",
+      "id": "crossref-2041-1723-44",
+      "journal": "Nature Communications",
+      "title": "Multimodal substrate recruitment enables CTLHMKLN1 E3 ligase to target acetylated N-, C-, and internal degrons",
+      "abstract": "Abstract The GID/CTLH family of E3 ubiquitin ligases employs several substrate receptor subunits that recruit distinct degrons, but the substrate recognition mechanisms of the CTLH MKLN1 assembly have largely remained elusive. Here, we reconstitute CTLH MKLN1 -dependent ubiquitylation of three biochemically distinct substrates – MKLN1 itself, ZMYND19, and FAM72A-recruited UNG2, and determine cryo-EM structures of each substrate bound to MKLN1. The structures reveal how MKLN1’s discoidin and Kelch β-propeller domains engage substrates through multivalent contacts. MKLN1 recruits itself through discoidin-Kelch interactions between MKLN1 dimers, forming an assembly that competes with other substrates. ZMYND19 and FAM72A each bind to MKLN1 through loops engaging the discoidin trench domain while their C-terminal Arg residues engage the MKLN1 Kelch central channel, identifying MKLN1 as an Arg/C-degron receptor. The acetylated N-terminus of UNG2 is positioned within a Y-shaped tunnel of FAM72A, defining an adaptor-mediated Ac/N-degron recognition mechanism. Thus, our data reveal how combinatorial deployment of MKLN1 discoidin and Kelch domains enable a single receptor subunit to recognize a diverse substrate repertoire, adding to a complex picture of degron recognition across the GID/CTLH family.",
+      "topic": "ligase",
+      "topicLabel": "RNA ligase",
+      "score": 78,
+      "date": "2026-10-17",
+      "authors": "Sara Sepic · Karthik V. Gottemukkala · Jiale Du",
+      "url": "https://doi.org/10.1038/s41467-026-78311-4",
+      "doi": "10.1038/s41467-026-78311-4"
+    },
+    {
+      "id": "crossref-2375-2548-13",
+      "journal": "Science Advances",
+      "title": "Substrate-bound structures of yeast ALA synthase reveal protein dynamics initiating heme biosynthesis",
+      "abstract": "Heme is an essential prosthetic group involved in multiple biological processes in nearly all organisms. Heme biosynthesis is initiated by the pyridoxal 5′-phosphate–dependent enzyme aminolevulinic acid synthase (ALAS). Mutations in ALAS cause multiple hematological diseases. Despite sharing approximately 70% sequence similarity, ALAS homologs exhibit distinct expression and regulatory mechanisms. However, the molecular basis for their functional divergence remains poorly understood. Here, we used x-ray crystallography and molecular dynamics simulations to elucidate the structure and dynamics of Saccharomyces cerevisiae ALAS (scALAS) upon substrate binding. We identified critical conformational changes that occur during catalysis, regulating enzyme activity and protein-protein interactions specific to eukaryotic heme synthesis. Using evolution-guided engineering, we generated scALAS variants with altered catalytic activity and cellular metabolic profiles. Our findings reveal molecular and structural mechanisms underlying heme synthesis regulation and establish a framework for developing targeted therapeutics to treat heme-deficiency disorders and inform a rational design of next-generation therapeutic tools.",
       "topic": "molecule",
       "topicLabel": "Molecular synthesis",
       "score": 78,
-      "date": "2026-10-7",
-      "authors": "Cheng Yuan Yuan · Xiu Xiu Ma · Zhen Peng Mai",
-      "url": "https://doi.org/10.1021/jacs.6c15157",
-      "doi": "10.1021/jacs.6c15157"
+      "date": "2026-10-16",
+      "authors": "Jenny U. Tran · Thyandra A. Martinez · Christopher Jurich",
+      "url": "https://doi.org/10.1126/sciadv.aef7768",
+      "doi": "10.1126/sciadv.aef7768"
     },
     {
-      "id": "crossref-1755-4330-24",
+      "id": "crossref-2041-1723-88",
+      "journal": "Nature Communications",
+      "title": "Coupling hfCas13d with Circular gRNA Array Precursors Extends RNA Knockdown and Improves Biocatalysis in Yeast",
+      "abstract": "Publisher record available. Open the article page for the full abstract.",
+      "topic": "molecule",
+      "topicLabel": "Molecular synthesis",
+      "score": 78,
+      "date": "2026-10-15",
+      "authors": "Xuan-Mai Thi Le · Vy Anh Truong · Quyen Thuc Dang",
+      "url": "https://doi.org/10.1038/s41467-026-78647-x",
+      "doi": "10.1038/s41467-026-78647-x"
+    },
+    {
+      "id": "crossref-1755-4330-26",
       "journal": "Nature Chemistry",
       "title": "De novo synthesis of threofuranoses via a triple-carbonylation cascade of aldehydes",
       "abstract": "Publisher record available. Open the article page for the full abstract.",
@@ -107,42 +133,16 @@
       "authors": "Xiaotong Shen · Ruifang Nie · Wenjun Jiang",
       "url": "https://doi.org/10.1038/s41557-026-02258-8",
       "doi": "10.1038/s41557-026-02258-8"
-    },
-    {
-      "id": "crossref-1545-7885-31",
-      "journal": "Nature Structural & Molecular Biology",
-      "title": "MucD regulates alginate biosynthesis through the proteolytic control of AlgX and AlgK in Pseudomonas aeruginosa",
-      "abstract": "Pseudomonas aeruginosa is an opportunistic human pathogen capable of infecting a wide range of tissues and organs. Its persistence during chronic infection is strongly associated with biofilm formation, which depends on extracellular polysaccharides such as alginate. The HtrA-like periplasmic serine protease MucD is a key regulator of bacterial virulence, stress response, and alginate production, yet its molecular mechanism has remained largely unclear. Here, we discovered the alginate acetylation and export proteins AlgX and AlgK as MucD substrates, and characterized their degradation by mass spectrometry and bioinformatic analysis. We further determined the cryo-EM structure of MucD bound to an AlgK-derived substrate peptide, offering atomic insights into MucD oligomerization assembly, substrate recognition, and specificity. Together with structure-guided mutagenesis and biochemical assays, our results revealed that MucD proteolytic activity is governed by an equilibrium between a resting 12-mer and an active trimer. Crucially, we demonstrate that MucD represses alginate biosynthesis post-translationally, in addition to its previously implicated role in transcriptional regulation. These findings define a distinct activation mechanism and regulatory function for MucD and provide new insight into bacterial HtrA-like serine proteases.",
-      "topic": "molecule",
-      "topicLabel": "Molecular synthesis",
-      "score": 75,
-      "date": "2026-9-21",
-      "authors": "Yujun Jiang · Xin-Fu Yan · Rya Ero",
-      "url": "https://doi.org/10.1371/journal.pbio.3003985",
-      "doi": "10.1371/journal.pbio.3003985"
-    },
-    {
-      "id": "crossref-0092-8674-74",
-      "journal": "Cell",
-      "title": "Complete biosynthesis of the anticancer cephalotaxinone and homoerythratine",
-      "abstract": "Publisher record available. Open the article page for the full abstract.",
-      "topic": "molecule",
-      "topicLabel": "Molecular synthesis",
-      "score": 75,
-      "date": "2026-9",
-      "authors": "Runze Tian · Feifan Lin · Nianxin Guo",
-      "url": "https://doi.org/10.1016/j.cell.2026.06.007",
-      "doi": "10.1016/j.cell.2026.06.007"
     }
   ],
   "preprints": [
     {
       "num": "01",
-      "title": "Phototropin modulates biosynthetic gene clusters network mediated biomanufacturing of anti-inflammatory metabolites in green lineage simply by illumination",
-      "meta": "bioRxiv · 2026-06-14",
+      "title": "Targeting the Mannitol Biosynthesis Pathway in Aspergillus fumigatus: Characterisation and Inhibition of Mannitol-2-Dehydrogenase",
+      "meta": "bioRxiv · 2026-06-21",
       "topic": "molecule",
-      "url": "https://doi.org/10.1101/2025.05.22.655495",
-      "doi": "10.1101/2025.05.22.655495"
+      "url": "https://doi.org/10.64898/2026.06.15.732321",
+      "doi": "10.64898/2026.06.15.732321"
     }
   ]
 }
