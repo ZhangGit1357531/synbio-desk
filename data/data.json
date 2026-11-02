@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-26T06:17:19.086Z",
+  "generatedAt": "2026-11-02T07:43:00.976Z",
   "source": "Crossref + bioRxiv public APIs",
   "verified": true,
   "rejectedSources": [],
   "articles": [
     {
-      "id": "crossref-0305-1048-40",
+      "id": "crossref-0305-1048-98",
       "journal": "Nucleic Acids Research",
       "title": "Substrate energetics in non-templated DNA synthesis by terminal deoxynucleotidyl transferase",
       "abstract": "Abstract DNA polymerases typically use deoxyribonucleoside triphosphates (dNTPs) for DNA synthesis, yet the contribution of the γ-phosphate to catalysis remains unclear. Here, we examine the role of substrate energetics in enzyme-catalyzed polymerization using a fidelity-independent model polymerase, terminal deoxynucleotidyl transferase (TdT). Relative to dNTPs, we find that TdT utilizes the canonical deoxyribonucleoside diphosphates (dNDPs) with reduced rates and catalytic efficiencies, but diminished substrate bias. This lower specificity indicates that the γ-phosphate contributes primarily to nucleotide discrimination, rather than phosphodiester bond formation. Furthermore, our work shows that dNDPs and dNTPs with the same nucleobase exhibit comparable activation energies for the rate-limiting step during DNA synthesis, supporting a model in which the γ-phosphate is not required for lowering the energetic barrier for TdT-catalyzed polymerization. These findings define a mechanistic framework for understanding non-templated DNA synthesis and its application in enzymatic DNA synthesis technologies.",
@@ -18,7 +18,7 @@
       "doi": "10.1093/nar/gkag980"
     },
     {
-      "id": "crossref-1552-4450-32",
+      "id": "crossref-1552-4450-35",
       "journal": "Nature Chemical Biology",
       "title": "Biosynthetic allene and alkyne formation by enzymatic prenyl demethylation",
       "abstract": "Abstract Allenes and alkynes are versatile functional groups in chemical biology and drug discovery. However, how nature biosynthetically installs them in natural products, especially allenes, remains poorly understood. Here we uncovered that allenes and alkynes can be formed enzymatically through oxidative C( sp 2 )-demethylation of the common five-carbon prenyl group. Two fungal cytochrome P450 monooxygenases, PpnB and NseB, from the penipratynolene and sinuxylamide biosynthetic pathways, respectively, were shown to catalyze oxidative removal of a C( sp 2 )-methyl group in O -prenyl l -tyrosine to afford O -homoallenyl l -tyrosine and O -but-2-ynyl l -tyrosine, respectively. Combining density functional theory calculations and biochemical assays with isotopically labeled substrates, a mechanism involving selective C–C bond cleavage followed by product-determining hydrogen atom abstraction is presented. An additional P450 enzyme from the penipratynolene pathway, PpnD, acts as an oxidative isomerase that converts the four-carbon terminal allene into a terminal alkyne. This sophisticated enzymatic editing strategy to install allene and alkyne expands the catalytic repertoire of P450 enzymes.",
@@ -31,20 +31,20 @@
       "doi": "10.1038/s41589-026-02323-w"
     },
     {
-      "id": "crossref-1433-7851-2",
+      "id": "crossref-1433-7851-70",
       "journal": "Angewandte Chemie",
-      "title": "Liquid‐Liquid Phase Separation Modulated Thylakoid–Enzyme Interfacial Coupling for Enhanced Light‐Powered Biocatalysis",
-      "abstract": "ABSTRACT Thylakoid (TK) membranes serve as promising photosynthesis platforms for light‐driven biocatalysis, yet their catalytic efficiency is largely restricted by poor coupling between photo‐dependent NADPH regeneration and enzymatic conversion. Herein, we report a facile TK‐anchored enzyme condensate strategy to overcome this bottleneck. Specifically, the UTX‐derived intrinsically disordered region (IDR) fused with target enzymes mediates liquid–liquid phase separation to form enzyme‐rich condensates, which then stably anchor on TK membranes and spatially confine catalysis at the NADPH‐generating membrane interface. Taking carbonyl reductase Sm CR V4 and ene‐reductase Ss ER A314S as model enzymes, the TK–enzyme hybrid condensates exhibit prominently improved catalytic performance, especially under NADPH regeneration‐limited conditions, relative to freely dispersed enzyme systems. The TK–UTX‐ Sm CR V4 hybrid improves the total product yield up to 3.1‐fold, and the TK–UTX‐ Ss ER A314S hybrid reaches a 2.9‐fold higher conversion within 20 min. Coarse‐grained molecular dynamics simulations validate a dynamic multivalent interfacial anchoring mode: the IDR domain mediates stable membrane binding via high‐frequency residue–lipid interactions dominated by short‐range Lennard–Jones forces (with auxiliary electrostatic contributions), while the enzyme domain remains solvent‐exposed. This work establishes a feasible strategy that physically links light‐driven NADPH recycling with enzymatic catalysis, offering a general approach for constructing high‐efficiency artificial photosynthesis systems.",
+      "title": "Chemical Inhibition of Pyocyanin Biosynthesis Attenuates Virulence of Pseudomonas aeruginosa",
+      "abstract": "ABSTRACT Anti‐virulence strategies that disarm bacterial pathogenicity without affecting viability offer a promising alternative to traditional antibiotics by reducing selective pressure for resistance. However, in Gram‐negative bacteria such as Pseudomonas aeruginosa , the double‐layered cell envelope limits intracellular access of small‐molecule inhibitors. Here, we screened a structurally diverse library of virulence inhibitors, previously established as pathoblockers in Gram‐positive bacteria, and identified a potent β‐lactone inhibitor of pyocyanin production. Activity‐based protein profiling revealed PqsC, an intracellular enzyme involved in Pseudomonas quinolone signal (PQS) quorum sensing, as the primary molecular target. Accordingly, global proteomic analysis revealed widespread dysregulation of enzymes associated with the pyocyanin biosynthetic pathway. Biochemical assays confirmed inhibition of recombinant PqsBC, while intact protein mass spectrometry and site‐directed mutagenesis established active site Cys129 as the covalent binding site. X‐ray crystallography of the inhibited complex revealed a covalent binding mode. Subsequent virtual screening identified a chloroacetamide scaffold that exhibited enhanced potency and a well‐defined binding mode. Importantly, supernatants from treated bacterial cultures showed reduced cytotoxicity toward mammalian cells, consistent with attenuated virulence. Collectively, this study identifies novel covalent inhibitors of PqsC and provides a mechanistic framework for the development of pathoblockers against P. aeruginosa .",
       "topic": "molecule",
       "topicLabel": "Molecular synthesis",
       "score": 81,
-      "date": "2026-10-24",
-      "authors": "Jiayi Zhang · Chengtao Ding · Xiaoyan Zhang",
-      "url": "https://doi.org/10.1002/anie.7079393",
-      "doi": "10.1002/anie.7079393"
+      "date": "2026-10-27",
+      "authors": "Wei Ding · Sebastian R. Borgert · Wulf Blankenfeldt",
+      "url": "https://doi.org/10.1002/anie.1294720",
+      "doi": "10.1002/anie.1294720"
     },
     {
-      "id": "crossref-0036-8075-18",
+      "id": "crossref-0036-8075-63",
       "journal": "Science",
       "title": "Natural product biosynthesis by guanidine prenyltransferases in plants and bacteria",
       "abstract": "Guanidine exists almost exclusively as a resonance-stabilized cation, making its direct enzymatic functionalization challenging. We identified the cyanobacterial enzyme NosH, which catalyzes direct prenyl transfer to free guanidine. Structural and mechanistic analyses revealed guanidine activation by a two-aspartate clamp coupled to prenyl-donor binding through a distinct catalytic architecture. Guided by these features, we identified a large family of guanidine prenyltransferases across bacteria and plants. Plant enzymes produced guanidine alkaloids such as galegine in vitro and heterologous expression of a plant ortholog in Nicotiana benthamiana produced galegine in planta, providing a direct enzymatic link to plant-specialized metabolism.",
@@ -57,7 +57,7 @@
       "doi": "10.1126/science.aeg1821"
     },
     {
-      "id": "crossref-1552-4450-40",
+      "id": "crossref-1552-4450-43",
       "journal": "Nature Chemical Biology",
       "title": "Pyridoxal-phosphate-dependent biosynthesis of aminovaleramide by AvaS in tRNA",
       "abstract": "Publisher record available. Open the article page for the full abstract.",
@@ -70,7 +70,7 @@
       "doi": "10.1038/s41589-026-02303-0"
     },
     {
-      "id": "crossref-1755-4330-50",
+      "id": "crossref-1755-4330-55",
       "journal": "Nature Chemistry",
       "title": "Nitrene generation and transfer for unnatural biosynthesis in living cells",
       "abstract": "Abstract Synthetic biology has enabled the production of natural and unnatural products from inexpensive sustainable feedstocks. Yet, the scope of available products has been limited largely to compounds accessible from nature’s chemical reactions. Evolved enzymes can catalyse reactions of unnatural substrates or reactions not found in nature but often require the addition of synthetic reagents to purified enzymes or to resting cells containing those enzymes. Here we show that chemical reactions of metabolic intermediates produced intracellularly in living cells can include intermolecular nitrene transfers. The biosynthesis of N -acetoxyanilines, in combination with the generation and transfer of N -aryl nitrene intermediates from them catalysed by a cytochrome P450, generates amino alcohols, diamines, diarylamines and aminoalkyl arenes from simple carbon feedstocks. These products—common substructures of pharmaceuticals and agrochemicals—are challenging to synthesize by standard organic chemistry and were produced from inexpensive, renewable feedstocks. Evolution of the enzymes in this pathway showed that titres can be increased by engineering and that the products can be synthesized with high enantioselectivity.",
@@ -83,7 +83,7 @@
       "doi": "10.1038/s41557-026-02224-4"
     },
     {
-      "id": "crossref-1552-4450-91",
+      "id": "crossref-1552-4450-94",
       "journal": "Nature Chemical Biology",
       "title": "Cephalotaxinone enzymes reveal a whole plant model for homoharringtonine biosynthesis",
       "abstract": "Publisher record available. Open the article page for the full abstract.",
@@ -96,43 +96,43 @@
       "doi": "10.1038/s41589-026-02260-8"
     },
     {
-      "id": "crossref-2375-2548-52",
-      "journal": "Science Advances",
-      "title": "High-throughput droplet-based enzymatic DNA methylome profiling enables single-cell resolution of epigenetic heterogeneity",
-      "abstract": "DNA methylation is a fundamental epigenetic modification that regulates gene expression, cellular identity, and disease-associated regulatory programs. However, high-throughput single-cell DNA methylation technologies have been limited by DNA degradation, low CpG recovery, and the poor scalability of bisulfite-based methods. Here, we present scEM-seq, a droplet-based single-cell enzymatic methylome sequencing method that integrates barcode ligation within a single emulsification step, followed by postemulsion cytosine-to-uracil conversion. This design substantially reduces DNA loss and enables robust profiling of tens of thousands of single cells per experiment. scEM-seq generates high-quality single-cell methylomes with moderately improved CpG coverage and balanced read utilization compared with other droplet-based microfluidic methods. Applied to peripheral blood mononuclear cells, scEM-seq accurately resolves major immune lineages, and in prostate cancer tissues, it reveals diverse malignant cell states and patient-specific epigenetic and copy number architectures. scEM-seq enables scalable single-cell dissection of epigenetic heterogeneity across diverse biological and disease contexts, broadening the scope of DNA methylation–based studies into cellular regulation and disease.",
-      "topic": "rna",
-      "topicLabel": "RNA / DNA",
-      "score": 78,
-      "date": "2026-10-23",
-      "authors": "Gaojie Li · Yang Yang · Zhuoran Li",
-      "url": "https://doi.org/10.1126/sciadv.aef2844",
-      "doi": "10.1126/sciadv.aef2844"
-    },
-    {
-      "id": "crossref-0002-7863-30",
+      "id": "crossref-0002-7863-14",
       "journal": "JACS",
-      "title": "Photobiocatalytic Diastereo- and Enantioselective Synthesis of Noncanonical Amino Acids Bearing Challenging Stereochemical Dyads and Triads",
-      "abstract": "Abstract Catalyst-controlled stereodivergent synthesis of acyclic molecules bearing multiple stereogenic centers remains a longstanding challenge in asymmetric catalysis, particularly through intermolecular radical C–C coupling. Here, we report the directed evolution of pyridoxal 5′-phosphate (PLP)-dependent biocatalysts for the stereodivergent synthesis of noncanonical amino acids bearing either skipped α,γ-stereochemical dyads or contiguous α,β,γ-stereochemical triads. Starting from a thermophilic tryptophan synthase β-subunit, protein engineering generated complementary enzyme variants that selectively construct three of the four possible α,γ-stereoisomers through biocatalyst-controlled reversal of both remote γ-stereochemistry and proximal α-stereochemistry. These engineered enzymes catalyzed intermolecular radical C–C bond formation with a broad range of secondary alkyltrifluoroborates, affording α,γ-disubstituted amino acids in excellent yields and stereoselectivities. Furthermore, directed evolution enabled efficient β-dehydroxylative radical coupling of the non-native threonine-derived aminoacrylate intermediate, providing amino acids bearing contiguous α,β,γ-stereochemical triads with up to 96:4:&amp;lt;0.1:&amp;lt;0.1 d.r. and &amp;gt;99:1 e.r. To further demonstrate the synthetic utility of this platform, the stereochemically enriched amino acids were transformed into valuable γ-chiral amines through engineered PLP-dependent tryptophan decarboxylases, establishing a dual PLP enzyme-based biocatalytic cascade for the enantiodivergent synthesis of privileged amine scaffolds. Molecular dynamics simulations reveal that enzyme-controlled γ-stereoselectivity originates from active-site remodeling that modulates π–π interactions and steric contacts governing the facial selectivity of the radical addition step. This work expands the synthetic capabilities of radical biocatalysis by enabling catalyst-controlled stereodivergent assembly of complex acyclic stereochemical arrays and establishes engineered PLP enzymes as versatile catalysts for the synthesis of stereochemically complex amino acids and chiral amines.",
+      "title": "Protein Scaffolds Modulate the Electronic Structure of a Common Ketyl Radical Intermediate in Thiamine Pyrophosphate-Dependent Radical Biocatalysis: Insights from EPR and ENDOR Spectroscopy",
+      "abstract": "Abstract New-to-nature radical biocatalysis has emerged as a powerful strategy for asymmetric C–C bond formation, yet the enzyme-bound radical intermediates that underpin these transformations have remained largely uncharacterized. Here, we combine photobiocatalytic reaction development with multifrequency electron paramagnetic resonance (EPR), electron–nuclear double resonance (ENDOR) spectroscopy, and density functional theory (DFT) calculations to elucidate the ketyl radical intermediates formed during thiamine pyrophosphate (TPP)-dependent radical biocatalysis. We first develop an oxidative photobiocatalytic cross-coupling of aldehydes with alkyltrifluoroborates catalyzed by engineered benzoylformate decarboxylase (BFD) variants, providing enantioenriched α-chiral ketones through a new oxidative radical manifold inaccessible to benzaldehyde lyases (BALs). Freeze-quench multifrequency EPR and ENDOR spectroscopy directly identify the catalytically generated TPP-bound ketyl radical and reveal that this common radical intermediate adopts distinct electronic structures in BFD and BAL despite their identical chemical composition. Analysis of 1H, 19F, 31P, and 14N hyperfine interactions, together with DFT calculations, demonstrates that enzyme-specific active-site conformations redistribute spin density between the TPP cofactor and substrate fragment. Greater substrate-centered spin delocalization in BFD provides a mechanistic basis for its superior radical C–C coupling activity relative to BAL. These results establish a direct relationship between protein-controlled electronic structure and catalytic function in TPP-dependent radical biocatalysis and demonstrate that engineering the electronic properties of a common radical intermediate represents a useful strategy for controlling enzyme reactivity in radical biocatalysis.",
       "topic": "molecule",
       "topicLabel": "Molecular synthesis",
       "score": 78,
-      "date": "2026-10-22",
-      "authors": "Zhiyu Bo · Lei Cheng · Xiangyu Zhang",
-      "url": "https://doi.org/10.1021/jacs.6c14337",
-      "doi": "10.1021/jacs.6c14337"
+      "date": "2026-10-30",
+      "authors": "Guodong Rao · Zheng Zhang · Xin Liu",
+      "url": "https://doi.org/10.1021/jacs.6c16863",
+      "doi": "10.1021/jacs.6c16863"
     },
     {
-      "id": "crossref-0002-7863-82",
+      "id": "crossref-0002-7863-46",
       "journal": "JACS",
-      "title": "Radical SAM Enzymes Catalyze Aromatic–Proline Cross-Links in Lanthipeptide Biosynthesis",
-      "abstract": "Abstract Radical S-adenosylmethionine (rSAM) enzymes enable some of the most chemically challenging transformations in natural product biosynthesis, profoundly shaping the structural diversity of ribosomally synthesized and post-translationally modified peptides (RiPPs). Despite extensive studies in several RiPP families, the contribution of rSAM chemistry to lanthipeptide biosynthesis has remained poorly defined. Here, we identify a widespread group of rSAM enzymes associated with type III/IV lanthipeptide gene clusters through combined genome mining and phylogenetic analysis. Characterization of representative pathways uncovered a series of new lanthipeptides bearing an N-terminal aromatic–proline carbon–carbon cross-link. Detailed LC–MS/MS and NMR analyses revealed that Trp, Phe, or His residues are covalently linked to a conserved Pro residue, establishing a broader family of rSAM-catalyzed aromatic–proline couplings in lanthipeptide biosynthesis. Notably, biochemical reconstitution, active-site mutagenesis, substrate profiling, and isotope-labeling experiments define key catalytic requirements, support a radical-mediated dehydrogenative coupling mechanism, and show that lanthionine formation is not an absolute prerequisite for AitR-catalyzed aromatic–proline cross-linking. These findings broaden the substrate and structural scope of rSAM-catalyzed cross-linking in lanthipeptide RiPPs.",
+      "title": "Decentralized Biosynthesis of the Spiro-DKP Alkaloid Chevalinulin A Enabled by Nonclustered P450 and Intermolecular [4 + 2] Cyclase",
+      "abstract": "Abstract Intermolecular Diels–Alder (DA) cycloadditions are pivotal for constructing complex polycyclic architectures. However, biological catalysts performing this transformation on diketopiperazine (DKP) cores remain largely unidentified. Here, we report a decentralized biosynthetic pathway in the deep-sea cold-seep sourced fungus Aspergillus chevalieri CS-122 that assembles chevalinulin A, a spiro[bicyclo[2.2.2]octane]-DKP alkaloid. This pathway involves two nonclustered enzymes, CalO and FadA. CalO is a cytochrome P450 that furnishes an essential exocyclic olefin, while FadA represents the first FAD oxidoreductase-like Diels–Alderase that catalyzes an intermolecular, endoselective [4 + 2] cycloaddition between neoechinulin B and 3,4-trans-cyclohexadiene. These enzymes function downstream of a conserved gene cluster, effectively decoupling core scaffold assembly from late-stage functionalization. This strategy likely underpins the extensive structural diversity of fungal DKP alkaloids. Notably, CalO and FadA were identified via an integrated transcriptomic and structure-guided computational pipeline, rather than sequence homology, demonstrating the efficacy of this approach in mining functional catalysts from genomic “dark matter”. Mutational analysis indicates that residues M193, Y226, Y315, and D446 are critical in FadA activity. This study reveals a decentralized biosynthetic paradigm linking clustered core assembly with dispersed diversification, establishing a general framework for engineering complex alkaloid scaffolds.",
       "topic": "molecule",
       "topicLabel": "Molecular synthesis",
       "score": 78,
-      "date": "2026-10-20",
-      "authors": "Ye Lei Zhou · Jing Shi · Jing Xin Zhang",
-      "url": "https://doi.org/10.1021/jacs.6c18928",
-      "doi": "10.1021/jacs.6c18928"
+      "date": "2026-10-29",
+      "authors": "Ling-Hong Meng · Li-Yao Wang · Zhen Ying",
+      "url": "https://doi.org/10.1021/jacs.6c17478",
+      "doi": "10.1021/jacs.6c17478"
+    },
+    {
+      "id": "crossref-1755-4330-33",
+      "journal": "Nature Chemistry",
+      "title": "De novo synthesis of threofuranoses via a triple-carbonylation cascade of aldehydes",
+      "abstract": "Publisher record available. Open the article page for the full abstract.",
+      "topic": "molecule",
+      "topicLabel": "Molecular synthesis",
+      "score": 75,
+      "date": "2026-9-22",
+      "authors": "Xiaotong Shen · Ruifang Nie · Wenjun Jiang",
+      "url": "https://doi.org/10.1038/s41557-026-02258-8",
+      "doi": "10.1038/s41557-026-02258-8"
     }
   ],
   "preprints": []
